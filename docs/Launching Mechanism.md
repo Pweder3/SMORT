@@ -33,7 +33,7 @@ Cons:
 - 
 ## Primers
 
-Insert a rocket motor igniter aka. primer/blasting cap (https://www.britannica.com/technology/blasting-cap) Into the bottom of a rocket motor so that when it hits the ignition pin the motor will iginite. 
+Insert a rocket motor igniter aka. primer/blasting cap [^[1]](https://www.britannica.com/technology/blasting-cap) Into the bottom of a rocket motor so that when it hits the ignition pin the motor will iginite. 
 
 Pros:
 - most realistic mechanism to a real motar
@@ -55,7 +55,7 @@ Cons:
 - Short Launch delay
 
 
-<img src = "https://github.com/Pweder69/SMORT/blob/e70fc5e39aef107856f720bde4265361a6df456e/docs/Images/Diagrams/Untitled-2023-11-28-1409.png">
+<img src = "/Users/Pweder/Documents/visual studio code/SMORT/docs/Images/Diagrams/Launch diagram.png" width =600>
 
 
 ---
