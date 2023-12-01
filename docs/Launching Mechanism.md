@@ -39,12 +39,20 @@ Pros:
 - most realistic mechanism to a real motar
 - 
 Cons:
--
+- Could be considered dangerous
+- may need a rebrand
+- [why this might not work](https://www.rocketryforum.com/threads/alternative-igniter.154779/#:~:text=Lighting%20a%20hobby%20rocket%20motor,right%20tool%20for%20the%20job).
 
-## 
+## Internal Launch Mech
 
+Have the igniter in the rocket motor mounted in the shell. When droped down the barrel the wires that go to the igniter will be bridged and have current flow through them. 
 
-
+Pros:
+- Safe
+- Works similarly to a motar
+- easily reloadable
+Cons:
+- Short Launch delay
 ---
 
 # Reasorces
