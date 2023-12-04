@@ -53,6 +53,11 @@ Pros:
 - easily reloadable
 Cons:
 - Short Launch delay
+
+
+<img src = "https://github.com/Pweder69/SMORT/blob/e70fc5e39aef107856f720bde4265361a6df456e/docs/Images/Diagrams/Untitled-2023-11-28-1409.png">
+
+
 ---
 
 # Reasorces
