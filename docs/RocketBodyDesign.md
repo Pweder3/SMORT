@@ -27,6 +27,7 @@ Could use a spike to hinder the
 ## Fins 
 - Deployable fins
 - Ring with fins inside of it 
+![Fins](C:\Users\cwyatt29\Documents\Code Stuff\SMORT\Images\Planning\SMORT Fins.png)
 
 ## RocketHolder/Engine
 
