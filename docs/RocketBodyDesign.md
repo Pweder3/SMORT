@@ -26,6 +26,7 @@ Could use a spike to hinder the
 
 ## Fins 
 - Deployable fins
+- Ring with fins inside of it 
 
 ## RocketHolder/Engine
 

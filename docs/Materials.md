@@ -2,7 +2,12 @@
 
 
 ## Shell
-
+    - Nose cone
+    - Impact Spring
+    - Stabilization fins
+    - Ignition Pins
+    - Ignighter
+    - Pico and other onboard electronics
     - Rocket motor (A,B,C)
 
 ## Tube + Targeting 
@@ -18,3 +23,10 @@
     - Angle gears
 
 ## Launcher
+
+    - 12 Volt battery
+    - Conductor plates
+    - Saftey Switch
+    -
+    -
+    -
