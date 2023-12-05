@@ -17,7 +17,7 @@
 The idea is to make iteration easier that every part can be changed and tested seperatly and then put together to make the final rocket although this does create complexity and **integration hell.** 
 
 ## Nose cone
-Could use a spike to hinder the 
+Could use a spike and a spring to hinder the 
 <img src= "Images/Diagrams/Untitled-2023-11-28-1409.png" width = 300> 
 
 ## Body
@@ -25,9 +25,9 @@ Could use a spike to hinder the
 
 
 ## Fins 
-- Deployable fins
+
 - Ring with fins inside of it 
-![Fins](C:\Users\cwyatt29\Documents\Code Stuff\SMORT\Images\Planning\SMORT Fins.png)
+![Fins](https://github.com/Pweder69/SMORT/blob/main/Images/Planning/SMORT%20Fins.png)
 
 ## RocketHolder/Engine
 
