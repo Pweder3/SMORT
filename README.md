@@ -1,5 +1,5 @@
 # S.M.O.R.T. PROJECT 
-**Smart, Modular, Off-axis, Reloadable, Tube-launched Objectz**
+**Smart, Modular, Off-axis, Reloadable, Tube-launcher**
 
 ## Table of Contents
 
