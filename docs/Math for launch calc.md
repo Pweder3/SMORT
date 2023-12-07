@@ -3,6 +3,9 @@
 -  innital rocket vector is defined as $\vec{V} = v$
 - $\hat{i}$ is a unit vector in the x direction 
 
+#  basic simulation of a rocket launch
+ - We dont need spacififcs of the rocket mass or fuel mass because our rocket motor is so little mass compared to the rocket
+ - We can just use the burn time of the rocket use a initial inerta to calculate the final velocity of the rocket and then subtract the gravity constant. 
 
 
 
