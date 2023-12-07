@@ -1,5 +1,6 @@
-from pygame import Vector2,time,image,draw,transform
+from pygame import Vector2,time,image,draw,transform,font
 import math
+import random
 from dataclasses import dataclass
 
 
@@ -18,14 +19,16 @@ class RocketMotor:
 
 class Rocket():
     
-    def __init__(self,clock: time.Clock, motor:RocketMotor,imageScale: int  ,rotation:float = math.pi/2, fps:int = 60) -> None:
+    def __init__(self,clock: time.Clock, motor:RocketMotor,imageScale: int  ,rotation:float = math.pi/6,isTrail: bool = True ) -> None:
         self.motor = motor
         self.clock = clock
-        self.fps = fps
+        self.startTime = time.get_ticks()
+        self.trail = smokeTrail()
         self.rotation = rotation
         self.thrust = 0
         self.velocity = Vector2(math.cos(rotation),math.sin(rotation))
         self.position = [0,0]
+        self.gravity = 5
         
         self.image = image.load("pygame Sim/RocketImage.png") # ik this is bad practice/no redundancy 
         newRect = int(self.image.get_rect()[2] * imageScale),int(self.image.get_rect()[3] * imageScale)
@@ -62,29 +65,42 @@ class Rocket():
                    10)
     
         
-    def update(self,tick,gravity = 0.1):
+    def update(self,tick,):
         
-        currenttime = time.get_ticks()
-        print(f"self.velocity: {self.velocity}, self.position: {self.position}, fuelTime: {(self.motor.burnTime ) > currenttime}")
+        
+        if self.position[1] > -20:
+            
+        
+        
+            currenttime = time.get_ticks()
 
-        # TODO: make this structure better with the frame of refrence.
-        
-        if self.motor.burnTime > currenttime:
-            
-            
-            self.thrust = (self.motor.thrustPerSec - gravity) * tick
-            # As of "high level docs" https://pygame.org/wiki/2DVectorClass\
-            
-        else:
-            self.thrust -= tick * gravity   
-        
-        # Frame of refrence is global here
-        # TODO: make 0,0 the botom right corner
-        self.velocity[0] = round(math.cos(self.rotation),2)
-        self.velocity[1] = round(self.thrust * math.sin(self.rotation),2)
 
-        self.position[0] += self.velocity[0]
-        self.position[1] += self.velocity[1]
+            # TODO: make this structure better with the frame of refrence.
+
+            if self.motor.burnTime > currenttime:
+
+                print(f"self.velocity: {self.velocity}, self.position: {self.position}, fuelTime: {(self.motor.burnTime ) > currenttime} thrust: {self.thrust}" )
+
+                self.thrust = (self.motor.thrustPerSec - self.gravity)
+                # As of "high level docs" https://pygame.org/wiki/2DVectorClass\
+
+            else:
+
+                self.gravity *= 1 + (1 * tick)
+                print(self.gravity)  
+
+
+
+            draggCoeffiecnet = 0.5
+
+            self.velocity[0] =  math.cos(self.rotation) * (self.thrust -draggCoeffiecnet ) * tick
+
+
+            self.velocity[1] =  (math.sin(self.rotation) *  self.thrust - self.gravity ) * tick
+
+            self.position[0] += self.velocity[0] 
+            self.position[1] += self.velocity[1] 
+            
         
     def getPosition(self) -> list[int]:
         return self.position
@@ -103,8 +119,63 @@ class Rocket():
         rotated_image_center = (pos[0] - rotated_offset.x, pos[1] - rotated_offset.y)
         rotated_image = transform.rotate(self.image, angle)
         rotated_image_rect = rotated_image.get_rect(center = rotated_image_center)
+        
+        
+        self.trail.draw(screen,pos,5)
         screen.blit(rotated_image, rotated_image_rect)
         
         
+        
+class grid:
+        
+        def __init__(self,screen_width,screen_height,gridSize) -> None:
+            self.screen_width = screen_width
+            self.screen_height = screen_height
+            self.gridSize = gridSize
+            
+        def draw(self,screen,labelWorth = None):
+            for x in range(0,self.screen_width,self.gridSize):
+                draw.line(screen,
+                        (0,0,0),
+                        (x,0),
+                        (x,self.screen_height))
+                
+            for y in range(0,self.screen_height,self.gridSize):
+                draw.line(screen,
+                        (0,0,0),
+                        (0,y),
+                        (self.screen_width,y))
+            
+            if labelWorth is not None:
+                text = font.SysFont("Arial", 10)
+                
+                for x in range(self.screen_width // self.gridSize):
+                    textAsSurface =  text.render(str(x * labelWorth),True,(0,0,0))
+                    screen.blit(textAsSurface,(x * self.gridSize + 3,self.screen_height - 10))
+                    
+@dataclass             # shouldnt be a dataclass   
+class smokeTrail:
+    width : int = 3
+    color : tuple[int] = (124,252,0) # green
+    
+    def __post_init__(self) -> None:
+        self.points = []
+        
+    def addPoint(self,position,randDomness = 0):
+        if randDomness != 0:
+            randDomness = random.randint(-randDomness,randDomness)
+            
+        self.points.append((position[0] + randDomness,position[1] + randDomness, self.width,self.width))
+        
+    
+    def draw(self,screen,pos = None,rand = None):
+        
+        if pos is not None and rand is not None:
+            self.addPoint(pos,rand)
+        
+        for point in self.points:
+            draw.rect(screen,
+                        self.color,
+                        point,)
         
         

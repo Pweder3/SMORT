@@ -1,6 +1,6 @@
 import pygame
-from Rocket import Rocket
-from Rocket import RocketMotor
+from Rocket import Rocket,RocketMotor,grid,smokeTrail
+
 import math
 
 pygame.init()
@@ -9,10 +9,10 @@ screen = pygame.display.set_mode((screen_width, screen_height))
 pygame.display.set_caption("Robotics Simulator")
 clock = pygame.time.Clock()
 
-def relTiv(position):
-    return (position[0] + (screen_width *.10) ,screen_height - position[1])
 
-motor = RocketMotor(2,200,3)
+screenGrid = grid(screen_width,screen_height,50)
+
+motor = RocketMotor(3,200,3)    
 
 rocket = Rocket(clock,motor,.2,rotation= math.pi/6)
 
@@ -27,13 +27,19 @@ while True:
             
             
     screen.fill((255,255,255))
-    rocket.update(clock.tick()/1000,gravity=.5)
+    tick = clock.tick_busy_loop(60)/1000 
     
+    rocket.update(tick)
     
-    # rocket.drawCircle(screen,screen_width,screen_height)
-    # rocket.drawVelocity(screen,screen_width,screen_height)
+    # all mesurements are within the scope of pixles per second for example gravity is 100 pixles per second
+    
+    screenGrid.draw(screen,1)
     
     rocket.drawImage(screen,screen_width,screen_height)
+     
+     
+    localizedpos = rocket.getLocalizedPosition(rocket.position,screen_width,screen_height)
+    # this is a bad way to do this but it works for now should default pos
     
     pygame.display.update()
     
