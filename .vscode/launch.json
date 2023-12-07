@@ -5,10 +5,18 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "name": "Python: Main",
+            "name": "Python: Matplotlib Sim",
             "type": "python",
             "request": "launch",
-            "program": "${workspaceFolder}/pygame Sim/Main.py",
+            "program": "${workspaceFolder}/Simulation Code/Matplotlib/Main.py",
+            "console": "integratedTerminal",
+            "justMyCode": true
+        },
+        {
+            "name": "Python: Pygame Sim",
+            "type": "python",
+            "request": "launch",
+            "program": "${workspaceFolder}/Simulation Code/Pygame sim/Main.py",
             "console": "integratedTerminal",
             "justMyCode": true
         },

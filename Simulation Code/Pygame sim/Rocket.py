@@ -30,7 +30,7 @@ class Rocket():
         self.position = [0,0]
         self.gravity = 5
         
-        self.image = image.load("pygame Sim/RocketImage.png") # ik this is bad practice/no redundancy 
+        self.image = image.load("Simulation Code/Pygame sim/RocketImage.png") # ik this is bad practice/no redundancy 
         newRect = int(self.image.get_rect()[2] * imageScale),int(self.image.get_rect()[3] * imageScale)
         self.image = transform.scale(self.image,newRect)
         
