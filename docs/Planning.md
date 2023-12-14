@@ -25,7 +25,7 @@ The body isnt really compicated it just contains all of the electronics and pote
 
 
 ## Nose Cone
-The nose cone is a part that will be deisgned to absorbe all of the shock it will contain a spring and a pin that will absorbe the brunt of the landing shock. (it will not be filled with tanerite). 
+The nose cone is a part that will be deisgned to absorbe all of the shock it will contain a spring and a pin that will absorbe the brunt of the landing shock. (it will not be filled with any explosive compound). 
 
 <img src= "Images/Diagrams/Untitled-2023-11-28-1409.png" width = 300> 
 
