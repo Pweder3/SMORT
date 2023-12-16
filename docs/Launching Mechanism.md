@@ -57,6 +57,13 @@ Cons:
 
 <img src = "/Users/Pweder/Documents/visual studio code/SMORT/docs/Images/Diagrams/Launch diagram.png" width =600>
 
+- [Engines](https://estesrockets.com/collections/b-engines)
+
+- [Star tech igniters](https://estesrockets.com/products/startech-starters?_pos=1&_sid=1efe572a4&_ss=r)
+
+- [Premade E-match](https://www.apogeerockets.com/Rocket-Motors/Motor-Starters/Firewire-Mini-Initiator-6-pk)
+
+
 
 ---
 
