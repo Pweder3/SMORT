@@ -39,13 +39,17 @@ class Rocket():
         screen.blit(image, (self.position[0],self.position[1]))
     
     
-    def currentMovementAngle(self) -> float:   
+    def currentMovementAngle(self) -> float:  
+        # Maby make a property for thiis and have this as a getter 
         return math.atan2(self.velocity[1],self.velocity[0])
     
     
     def getLocalizedPosition(self,position,screen_width,screen_height) -> tuple[int]:
+        # Maby make a position dataclass
         return (position[0] + (screen_width *.10) ,screen_height - position[1])
     
+    
+    # Should replace the screen_width and screen_height with a screen object and pass on innit 
     def drawVelocity(self,screen,screen_width,screen_height):
         position = self.getLocalizedPosition(self.position,screen_width,screen_height)
         
@@ -56,6 +60,9 @@ class Rocket():
                    position[1] - self.velocity[1] * 30),
                   5)
     
+    
+    # Rename 
+    # type hinting
     def drawCircle(self,screen,screen_width,screen_height):
         position = self.getLocalizedPosition(self.position,screen_width,screen_height)
         
@@ -64,7 +71,7 @@ class Rocket():
                    position,
                    10)
     
-        
+    # maby seperate functionality But be ware of abstraction
     def update(self,tick,):
         
         
@@ -105,6 +112,8 @@ class Rocket():
     def getPosition(self) -> list[int]:
         return self.position
     
+    # Maby combine with update under condition
+    # Maby also combine with blit image and other draw functions and just use conditionals to centralize the code
     def drawImage(self,screen,screen_width,screen_height):
         
         originPos = self.image.get_rect().center
@@ -125,7 +134,7 @@ class Rocket():
         screen.blit(rotated_image, rotated_image_rect)
         
         
-        
+# TYPE HINT THIS   
 class grid:
         
         def __init__(self,screen_width,screen_height,gridSize) -> None:
@@ -159,7 +168,7 @@ class smokeTrail:
     color : tuple[int] = (124,252,0) # green
     
     def __post_init__(self) -> None:
-        self.points = []
+        self.points = [] # USE A FIELDS AND DEFAULT FACTORY
         
     def addPoint(self,position,randDomness = 0):
         if randDomness != 0:
