@@ -55,7 +55,7 @@ Cons:
 - Short Launch delay
 
 
-<img src = "/Users/Pweder/Documents/visual studio code/SMORT/docs/Images/Diagrams/Launch diagram.png" width =600>
+<img src = "https://github.com/Pweder69/SMORT/blob/67013de955b2982a1c3f0419425f9c0ecc2a1dd8/docs/Images/Diagrams/Launch%20diagram.png" width =600>
 
 - [Engines](https://estesrockets.com/collections/b-engines)
 

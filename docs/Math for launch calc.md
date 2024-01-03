@@ -3,20 +3,21 @@
 -  innital rocket vector is defined as $\vec{V} = v$
 - $\hat{i}$ is a unit vector in the x direction 
 
-#  basic simulation of a rocket launch
+##  basic simulation of a rocket launch
  - We dont need spacififcs of the rocket mass or fuel mass because our rocket motor is so little mass compared to the rocket
  - We can just use the burn time of the rocket use a initial inerta to calculate the final velocity of the rocket and then subtract the gravity constant. 
 
 
 # [wiki Dump](https://en.wikipedia.org/wiki/Projectile_motion)
   - Maximum horrizontal distance formula
--  $$ d = \frac{v^2 \cos(\theta)}{g} \left( v \sin{\theta} +  \sqrt{ v^2 \sin^2({\theta}) +2gy_{0} } \right) $$
+-  $$d = \frac{v^2 \cos(\theta)}{g} \left( v \sin{\theta} +  \sqrt{ v^2 \sin^2({\theta}) +2gy_{0} } \right)$$
   
   
   
 # Program ideas
 for the final we can use matplot lib for projected path and then use a CSV file to get the actuall path similar to a basic velecity trajectory $\downarrow$
-![[Figure_1.png|400]]
+
+<img src ="https://github.com/Pweder69/SMORT/blob/3752453b33a51189e40eb2611e1eebf9fd58bc50/docs/Images/Images/Figure_1.png" width =400>
 
 
 - Dont make it to complicated just use it for documentation and to learn the math for the actual calculation
