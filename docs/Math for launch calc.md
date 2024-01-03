@@ -32,7 +32,14 @@ Final calibration in rad/s: [-0.02095, -0.01645, 0.0104]
 
 
 ## replication of the calibration
-to calibrate you can follow [this](https://cdn-learn.adafruit.com/downloads/pdf/adafruit-sensorlab-magnetometer-calibration.pdf) tourtial from adafruit. Use a metro M4 (i used an airlift) not a py pico because the pico doesnt use an EPROMM and that is needed to run the calibration code. When installing the dependancies for the python code make sure to use a python version before 3.12 and to install pyserial not serial because serial is a different library. To find the serial port that the metro is connected to use the arduino IDE and go to tools and then port and it should be the one listed under your board.
+to calibrate you can follow [this](https://cdn-learn.adafruit.com/downloads/pdf/adafruit-sensorlab-magnetometer-calibration.pdf) tourtial from adafruit. Use a metro M4 (i used an airlift) not a py pico because the pico doesnt use an EPROMM and that is needed to run the calibration code. To install the dependancies for python run the following commands in the terminal
+
+- `pip3 install matplotlib`
+- `pip3 install pyserial`
+- `pip3 install numpy`
+
+Note that some may have to **use python 3.11 or lower** to install the dependancies.
+To find the serial port that the metro is connected to use the arduino IDE and go to tools and then port and it should be the one listed under your board.
 
 
 ---
