@@ -33,6 +33,22 @@ Final calibration in rad/s: [-0.02095, -0.01645, 0.0104]
 Second MPU CALIBRATION [-0.0317, -0.0109, -0.0196]
 
 
+# Integration
+The values given out of the mpu 6050 are acceleration ($m/s^2$) values to convert these into position values we double integrate the acceleration values given. The method used to double integrate is called  the [Trapezoidal rule](https://en.wikipedia.org/wiki/Trapezoidal_rule#Example) were we treat our diffrent points as "trapezoids" to calculate the values this method is illustrated bellow $\downarrow$.
+<img src = "https://upload.wikimedia.org/wikipedia/commons/1/10/WikiTrap.gif" width =500>
+On the code side of things this is already done nicely through the `numpy` package with the `np.trapz()` function. All we have to do is input our array of y's into the method and iterate.
+
+```python
+order = 300
+x = np.linspace(start= 0, stop= 20,num= order)
+y = x**2 #(integration for f(x) = x^2)
+
+integrated = np.array([np.trapz(y[:i],x=x[:i] ) for i in range(order) ])  
+
+
+```
+
+
 ---
 # Reasorces
 
