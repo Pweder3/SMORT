@@ -22,11 +22,7 @@ ax.legend()
 
 def update(frame):
     # for each frame, update the data stored on each artist.
-    x = t[:frame]
-    y = z[:frame]
-    # update the scatter plot:
-    data = np.stack([x, y]).T
-    scat.set_offsets(data)
+
     # update the line plot:
     line2.set_xdata(t[:frame])
     line2.set_ydata(z2[:frame])

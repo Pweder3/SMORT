@@ -30,17 +30,7 @@ The mpu calibration had to be done to make sure that the values that are saved a
 <img src = "https://github.com/Pweder69/SMORT/blob/main/docs/Images/Images/Final%20Calibration.png">
 
 Final calibration in rad/s: [-0.02095, -0.01645, 0.0104]
-
-
-## replication of the calibration
-to calibrate you can follow [this](https://cdn-learn.adafruit.com/downloads/pdf/adafruit-sensorlab-magnetometer-calibration.pdf) tourtial from adafruit. Use a metro M4 (i used an airlift) not a py pico because the pico doesnt use an EPROMM and that is needed to run the calibration code. To install the dependancies for python run the following commands in the terminal
-
-- `pip3 install matplotlib`
-- `pip3 install pyserial`
-- `pip3 install numpy`
-
-Note that some may have to **use python 3.11 or lower** to install the dependancies.
-To find the serial port that the metro is connected to use the arduino IDE and go to tools and then port and it should be the one listed under your board.
+Second MPU CALIBRATION [-0.0317, -0.0109, -0.0196]
 
 
 ---
