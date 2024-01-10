@@ -20,3 +20,4 @@ to calibrate you can follow [this](https://cdn-learn.adafruit.com/downloads/pdf/
 
 Note that some may have to **use python 3.11 or lower** becasue of import changes in 3.12.To find the serial port that the metro is connected to use the arduino IDE and go to tools and then port and it should be the one listed under your board. Also note that this info is all our teams issues with the tutorial and the problems that we had.
 
+
