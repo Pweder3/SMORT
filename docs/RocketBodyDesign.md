@@ -31,6 +31,7 @@ Could use a spike and a spring to hinder the
 
 ## RocketHolder/Engine
 
+18mm diameter 70mm long engines
 
 
 ---
