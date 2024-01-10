@@ -33,7 +33,7 @@ Cons:
 - 
 ## Primers
 
-Insert a rocket motor igniter aka. primer/blasting cap (https://www.britannica.com/technology/blasting-cap) Into the bottom of a rocket motor so that when it hits the ignition pin the motor will iginite. 
+Insert a rocket motor igniter aka. primer/blasting cap [^[1]](https://www.britannica.com/technology/blasting-cap) Into the bottom of a rocket motor so that when it hits the ignition pin the motor will iginite. 
 
 Pros:
 - most realistic mechanism to a real motar
@@ -55,7 +55,14 @@ Cons:
 - Short Launch delay
 
 
-<img src = "https://github.com/Pweder69/SMORT/blob/e70fc5e39aef107856f720bde4265361a6df456e/docs/Images/Diagrams/Untitled-2023-11-28-1409.png">
+<img src = "https://github.com/Pweder69/SMORT/blob/67013de955b2982a1c3f0419425f9c0ecc2a1dd8/docs/Images/Diagrams/Launch%20diagram.png" width =600>
+
+- [Engines](https://estesrockets.com/collections/b-engines)
+
+- [Star tech igniters](https://estesrockets.com/products/startech-starters?_pos=1&_sid=1efe572a4&_ss=r)
+
+- [Premade E-match](https://www.apogeerockets.com/Rocket-Motors/Motor-Starters/Firewire-Mini-Initiator-6-pk)
+
 
 
 ---
