@@ -1,5 +1,5 @@
 # Open Rocket Testing
-
+[Open Rocket Link](https://github.com/Pweder69/SMORT/blob/main/docs/CAD/S.M.O.R.T.%20Shell%20Simulations.ork)
 We used Open Rocket to project the balistics of our shell. Open Rocket is a useful tool because it is a very accurate simulation that is very helpful for determining our weight requirements and optimising our rocket before launching. 
 
 ## Shell Design
