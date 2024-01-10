@@ -11,8 +11,8 @@ We used the Open Rocket modeling tools to create a shell body that was similar t
 [Info On Motors](https://www.apogeerockets.com/Rocket_Motors/Estes_Motors/18mm_Motors/Estes_Motors_A8-3#:~:text=The%20first%20number%20after%20the,during%20the%20entire%20burn%20time.) 
 
 ## Test 1 A8-3
-![A8](C:\Users\cwyatt29\Documents\Code Stuff\SMORT\docs\Images\Diagrams\A8 Perfect Conditions 45 Degrees.png)
+![A8](https://github.com/Pweder69/SMORT/blob/main/docs/Images/Diagrams/A8%20Perfect%20Conditions%2045%20Degrees.png)
 ## Test 2 B6-4
-![B6](C:\Users\cwyatt29\Documents\Code Stuff\SMORT\docs\Images\Diagrams\B6 Perfect Conditions 45 Degrees Graph.png)
+![B6](https://github.com/Pweder69/SMORT/blob/main/docs/Images/Diagrams/B6%20Perfect%20Conditions%2045%20Degrees%20Graph.png)
 ## Test 3 C6-5
-![C6](C:\Users\cwyatt29\Documents\Code Stuff\SMORT\docs\Images\Diagrams\C6 Perfect Conditions 45 Degrees.png)
+![C6](https://github.com/Pweder69/SMORT/blob/main/docs/Images/Diagrams/C6%20Perfect%20Conditions%2045%20Degrees.png)
