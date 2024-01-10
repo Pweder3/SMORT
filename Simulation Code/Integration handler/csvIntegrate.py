@@ -1,6 +1,5 @@
 import numpy as np
 import matplotlib.pyplot as plt
-import pandas as pd
 
 order = 300
 x = np.linspace(start= 0, stop= 20,num= order)
