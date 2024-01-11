@@ -26,7 +26,7 @@ while time.monotonic() - startTime    < cTime :
     
     
     for i in range(3):
-        finalValue[i] += currentValues[i]
+        finalValue[i] += int(currentValues[i])
         
 
 finalValue = [x/10 for x in finalValue]
