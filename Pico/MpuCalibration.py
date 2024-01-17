@@ -17,17 +17,20 @@ startTime = time.monotonic() # type: ignore
 cTime = 10
 
 finalValue = [0,0,0]
+iterations = 0
+
 
 print("Calibrating...")
 
 while time.monotonic() - startTime    < cTime :
     
     currentValues = mpu.acceleration
-    
+    iterations += 1 
     
     for i in range(3):
-        finalValue[i] += int(currentValues[i])
+        finalValue[i] += float(currentValues[i])
         
 
-finalValue = [x/10 for x in finalValue]
+finalValue = [x/iterations for x in finalValue]
+finalValue[2] -= 9.81
 print(finalValue)

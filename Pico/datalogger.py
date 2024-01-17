@@ -27,7 +27,7 @@ with open("/data.csv", "a") as datalog:
        
         
        
-        datalog.write(f" {curTime}, {added[0] -0.0317}, {added[1]-0.0109}, {added[2] -0.0196},  \n")
+        datalog.write(f" {curTime}, {added[0] -0.532635}, {added[1]-0.144521}, {added[2] +1.60884},  \n")
         
         datalog.flush()
         
