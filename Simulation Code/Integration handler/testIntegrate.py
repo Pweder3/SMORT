@@ -1,33 +1,30 @@
-import  numpy as np
+import numpy as np
 import matplotlib.pyplot as plt
+
+order = 300
+x = np.linspace(start= 0, stop= 20,num= order)
+y = 2*x**2 - 2*x+1
+
+
+integrated = np.array([np.trapz(y[:i],x= x[:i] ) for i in range(order) ])  
 
 
 def integrate(x, y):
     return np.array([np.trapz(y[:i],x= x[:i] ) for i in range(x.size) ])
 
-
-# Define the parameters for the simple harmonic motion
-omega = 2 * np.pi  # angular frequency, in rad/s
-x_max = 1.0  # maximum displacement, in m
-t_end = 1.0  # end time, in s
-dt = 0.01  # time step, in s
-
-# Generate the time values
-t = np.arange(0, t_end, dt)
-
-# Generate the displacement values
-x = x_max * np.cos(omega * t)
-
-# Calculate the acceleration values
-a = -omega**2 * x
-
-
-
-
 fig, ax = plt.subplots()
 
 
-ax.plot(t, a)
-ax.plot(t, integrate(t,integrate(t,x)))
+# ax.plot(x, y )
+ax.plot(x, y)
+ax.plot(x, integrated) 
+plt.ylim(0,10)
+
+
+plt.xlabel('Time')
+plt.ylabel('Function Values')
+plt.legend(['y = x**2', 'Integrated'])
 
 plt.show()
+
+
