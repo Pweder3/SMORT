@@ -43,7 +43,8 @@ LAUNCH STEPS
 * Step 1) Safety glasses
 * Step 2) Run
 
----
+
+
 * The rocket stand is also engineered to have a max angle of 75 degrees to ensure the rocket will not fire straight up, considering we do not have a parachute that will deploy.
 * Organize a meeting to talk about more risk mitigation procedures before launch.
 * discuss more safety  issues as they come up
