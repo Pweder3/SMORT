@@ -41,7 +41,9 @@ Shorting electronics.
 ### Mitigations
 LAUNCH STEPS
 * Step 1) Safety glasses
-* Step 2) Run
+* Step 2) Start launch
+* Step 3) Run
+* Step 4) :) 
 
 
 
