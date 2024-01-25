@@ -92,3 +92,10 @@ The targeting system will just control the angle of the launch tube relative to 
 -
 -
 -
+
+# Code blocks
+<img src = "https://github.com/Pweder69/SMORT/blob/main/docs/Images/Diagrams/Code%20diagram%201.png" width=300>
+
+---
+
+<img src = "https://github.com/Pweder69/SMORT/blob/main/docs/Images/Diagrams/Diagram%202.png" width=300>
