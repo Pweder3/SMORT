@@ -33,6 +33,24 @@ The nose cone is a part that will be deisgned to absorbe all of the shock it wil
 ## Targeting System
 The targeting system will just control the angle of the launch tube relative to the ground eaither using a threaded rod or other method. If the project completes early you can also add a rotation system to the rocket to control the direction of the rocket.
 
+## Risk Mitigation
+### Concerns
+The rocket might accidentally interference with humans during a launch.
+Shorting electronics.
+
+### Mitigations
+LAUNCH STEPS
+* Step 1) Safety glasses
+* Step 2) Start launch
+* Step 3) Run
+* Step 4) :) 
+
+
+
+* The rocket stand is also engineered to have a max angle of 75 degrees to ensure the rocket will not fire straight up, considering we do not have a parachute that will deploy.
+* Organize a meeting to talk about more risk mitigation procedures before launch.
+* discuss more safety  issues as they come up
+
 
 # Schedule
 
@@ -51,7 +69,7 @@ The targeting system will just control the angle of the launch tube relative to 
 ## End of February
 - [ ] First Launch with lanucher
 - [ ] Fix issues with rocket
-- [ ] rocket to work isseless and consistently
+- [ ] rocket to work issueless and consistently
 
 ## May 
 - [ ] Accurate targeting system
