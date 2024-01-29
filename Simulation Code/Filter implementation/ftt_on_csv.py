@@ -5,7 +5,7 @@ from scipy.integrate import cumtrapz,trapz
 from scipy.fft import fft, fftfreq
 
 
-data = pd.read_csv('Simulation Code/Integration handler/data.csv',header= 0)
+data = pd.read_csv('Simulation Code/Integration handler/accelerometer_data.csv',header= 0)
 
 
 t = data.iloc[:, 0].to_numpy()

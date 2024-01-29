@@ -24,15 +24,6 @@ for the final we can use matplot lib for projected path and then use a CSV file 
 
 
 
-# MPU 6050 Calibration
-The mpu calibration had to be done to make sure that the values that are saved are accurate for a long period of tine and makes sure that when we double integrate the values later after we collect the csv file that the values are accurate.
-
-<img src = "https://github.com/Pweder69/SMORT/blob/main/docs/Images/Images/Final%20Calibration.png">
-
-Final calibration in rad/s: [-0.02095, -0.01645, 0.0104]
-Second MPU CALIBRATION [-0.0317, -0.0109, -0.0196]
-
-
 # Integration
 The values given out of the mpu 6050 are acceleration ($m/s^2$) values to convert these into position values we double integrate the acceleration values given. The method used to double integrate is called  the [Trapezoidal rule](https://en.wikipedia.org/wiki/Trapezoidal_rule#Example) were we treat our diffrent points as "trapezoids" to calculate the values this method is illustrated bellow $\downarrow$.
 <img src = "https://upload.wikimedia.org/wikipedia/commons/1/10/WikiTrap.gif" width =500>
