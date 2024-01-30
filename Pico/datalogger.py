@@ -24,9 +24,11 @@ with open("/data.csv", "a") as datalog:
 
         added = [round(x,3) for x in acc ] 
         
-       
+           # 0.768448, 0.181718, -1.70216
         roundValue = 2
-        datalog.write(f" {curTime}, {added[0] -0.532635}, {added[1]-0.144521}, {added[2] +1.60884},  \n")
+        pString = f" {curTime}, {added[0] -0.768448}, {added[1]-0.182517}, {added[2] +1.70052}, "
+        print(pString)
         
+        datalog.write(pString + "\n")
         datalog.flush()
         
