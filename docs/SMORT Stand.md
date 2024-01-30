@@ -11,7 +11,9 @@ The design final for the stand ended up being a direct model of the air cannon s
 
 ![mode 1 smort stand](https://github.com/Pweder69/SMORT/assets/112962114/2399ef9b-2cfa-4fbe-a669-7ecdeb2607ae)
 image¹
+
 &nbsp;
+
 ![model for smort stand](https://github.com/Pweder69/SMORT/assets/112962114/0563aa02-cb58-4b80-af9b-4fbd8360f276)
 image²
 
