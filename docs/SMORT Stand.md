@@ -3,7 +3,7 @@
 
 
 # SMORT Stand
-
+## Design Ideas
 There were a couple of different brainstporming ideas for this stand. The first couple of ideas looked a bit like image¹. The other iterations of this desighn included a comprehensive stand made of 2x4s. This idea morphed into a short stand with a secured axel at the bottom able to rotate to whichever angle we need. The angle range is between -10° and 75°. -10° is just incase we want to shoot the rocket into the ground. But the max is also important becuase of the safety component, making sure we do not fire the rocket at 90° straight up becuase then it becomes a HAZARD. 
 
 &nbsp;
