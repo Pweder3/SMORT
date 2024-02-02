@@ -9,10 +9,12 @@ from scipy.integrate import cumtrapz,trapz
 data = pd.read_csv('Simulation Code/Integration handler/data.csv',header= 0)
 
 
-t = data.iloc[:, 0].to_numpy()
-x = data.iloc[:, 1].to_numpy()
-y = data.iloc[:, 2].to_numpy()
-z = data.iloc[:, 3].to_numpy()
+t = data.iloc[:, 0].to_numpy() 
+x = data.iloc[:, 1].to_numpy() # +0.0655488
+y = data.iloc[:, 2].to_numpy()  #+0.0759979
+z = data.iloc[:, 3].to_numpy() # +4.72263
+
+t -= t[0]
 
 def integrate(x, y):
     return np.array([np.trapz(y[:i],x= x[:i] ) for i in range(x.size) ])
@@ -29,8 +31,8 @@ zI2 =  cumtrapz(t,zI1,initial=0)
 
 # fig, ax = plt.subplots()
 ax = plt.figure().add_subplot(projection = "3d")
-ax.plot(x,y,zs =z)
-ax.plot(xI1, yI1, zs = zI1, color = 'red')
+# ax.plot(x,y,zs =z)
+# ax.plot(xI1, yI1, zs = zI1, color = 'red')
 ax.plot(xI2, yI2, zs = zI2, color = 'green')
 
 plt.legend(['acceleration','velocity', 'positon'])
