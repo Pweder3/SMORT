@@ -11,13 +11,15 @@ y = 2*x
 in1 = cumulative_trapezoid(y,dx= 20/order, initial=0)
 
 fig, ax = plt.subplots()
+in2 = cumulative_trapezoid(in1,dx= 20/order, initial=0)
 
 
 # ax.plot(x, y )
 ax.plot(x, y)
-ax.plot(x, in1) 
+ax.plot(x, in1 +100) 
+ax.plot(x, in2)
 # plt.ylim(-10,10)
-
+plt.ylim(-10,10)
 
 plt.xlabel('Time')
 plt.ylabel('Function Values')

@@ -31,9 +31,9 @@ zI2 =  cumtrapz(t,zI1,initial=0)
 
 # fig, ax = plt.subplots()
 ax = plt.figure().add_subplot(projection = "3d")
-# ax.plot(x,y,zs =z)
+ax.plot(x,y,zs =z)
 # ax.plot(xI1, yI1, zs = zI1, color = 'red')
-ax.plot(xI2, yI2, zs = zI2, color = 'green')
+# ax.plot(xI2, yI2, zs = zI2, color = 'green')
 
 plt.legend(['acceleration','velocity', 'positon'])
 
