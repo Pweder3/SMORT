@@ -59,8 +59,8 @@ LAUNCH STEPS
 # Schedule
 
 ## End of January 
-- [ ] Finish the rocket design
-- [ ] First Shell printed 
+- [x] Finish the rocket design
+- [x] First Shell printed 
 - [ ] Interal Wiring prototype done.
 - [ ] Rocket code done (just data collection)
 
