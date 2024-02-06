@@ -39,17 +39,21 @@ The rocket might accidentally interference with humans during a launch.
 Shorting electronics.
 
 ### Mitigations
-LAUNCH STEPS
-* Step 1) Safety glasses
-* Step 2) Start launch
-* Step 3) Run
-* Step 4) :) 
-
-
-
+* Before Launch find the wind direction and fire in the direction of the wind so they shell wont come back towards us.
+* Make sure any spectators are clear of the landing area and there are no objects that shouldn't be destroyed down range.
 * The rocket stand is also engineered to have a max angle of 75 degrees to ensure the rocket will not fire straight up, considering we do not have a parachute that will deploy.
-* Organize a meeting to talk about more risk mitigation procedures before launch.
-* discuss more safety  issues as they come up
+  
+LAUNCH STEPS
+* Step 1) Safety glasses and ear protection
+* Step 2) Make sure all members in the launch group understand what their role is
+* Step 3) Arm Tube and make sure tone is on
+* Step 4) Drop The Shell down the tube
+* Step 5) Wait for ignition and cover head
+* Step 6a) If launch is successfull disarm tube and inspect the landing area
+* Step 6b) If launch is unsuccessfull disarm tube and slowly dump the shell out the front
+
+
+
 
 
 # Schedule
