@@ -16,8 +16,13 @@ z = data.iloc[:, 3].to_numpy() # +4.72263
 
 t -= t[0]
 
-def integrate(x, y):
-    return np.array([np.trapz(y[:i],x= x[:i] ) for i in range(x.size) ])
+
+def integrate(x,y):
+    r_array = np.zeros(len(x))
+    for i in range(1, len(x)):
+        r_array[i] =   y[i-1] +  (y[i-1] + y[i])/2 * (x[i] - x[i-1])
+    return r_array
+        
 
 xI1 =  cumtrapz(t, x, initial=0)
 xI2 =  cumtrapz(t,xI1,initial=0)

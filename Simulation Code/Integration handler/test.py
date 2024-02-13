@@ -1,12 +1,24 @@
 
-from scipy import integrate
 import matplotlib.pyplot as plt
 import numpy as np
 
 
+def integrate(x,y):
+    r_array = np.zeros(len(x))
+    for i in range(1, len(x)):
+        r_array[i] =   y[i-1] +  (y[i-1] + y[i])/2 * (x[i] - x[i-1])
+    return r_array
+        
+        
+        
+x = np.linspace(0, 4, num=100)
+y = x**2
+y_int = integrate(x,y)
+plt.plot(x,y)
+plt.plot(x,integrate(x,y), 'r')
+plt.plot(x, x**3/3, 'g' )
 
-x = np.linspace(-2, 2, num=20)
-y = x
-y_int = integrate.cumtrapz(y, x, initial=0)
-plt.plot(x, y_int, 'ro', x, y[0] + 0.5 * x**2, 'b-')
+
+
+# plt.plot(x,x**3/3)
 plt.show()  
