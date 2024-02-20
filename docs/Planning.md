@@ -34,6 +34,7 @@ The nose cone is a part that will be deisgned to absorbe all of the shock it wil
 The targeting system will just control the angle of the launch tube relative to the ground eaither using a threaded rod or other method. If the project completes early you can also add a rotation system to the rocket to control the direction of the rocket.
 
 ## Risk Mitigation
+The printable document for our risk mitigations is linked [here](https://docs.google.com/document/d/1zc1QNFviahBiOCXemDb18Xyl-Bo_QezTwZ_n9gg8yH8/edit#heading=h.g7bat7v5y0lc).
 ### Concerns
 The rocket might accidentally interference with humans during a launch.
 Shorting electronics.
