@@ -20,6 +20,7 @@ def integrate(x,y):
     r_array = np.zeros(len(x))
     for i in range(1, len(x)):
         r_array[i] =   y[i-1] +  (y[i-1] + y[i])/2 * (x[i] - x[i-1])
+    r_array[0] = r_array[1] # normalize the first value 
     return r_array
         
         

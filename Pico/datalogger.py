@@ -27,7 +27,6 @@ with open("/data.csv", "a") as datalog:
         acc = mpu.acceleration
 
         added = [round(x,3) for x in acc ] 
-        
            # 0.768448, 0.181718, -1.70216
         roundValue = 2
         pString += f" {curTime}, {added[0] -0.768448}, {added[1]-0.182517}, {added[2] +1.70052}, \n"

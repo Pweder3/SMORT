@@ -1,9 +1,9 @@
 import time
-import adafruit_lsm6ds
+import adafruit_lsm6ds # type: ignore
 import busio # type: ignore
 import board # type: ignore
 import digitalio # type: ignore
-from adafruit_lsm6ds.lsm6dsox import LSM6DSOX
+from adafruit_lsm6ds.lsm6dsox import LSM6DSOX # type: ignore
 
 
 
@@ -16,27 +16,31 @@ i2c = busio.I2C(scl_pin, sda_pin)
 mpu = LSM6DSOX(i2c)
 
 start_time = time.monotonic() # type: ignore
-pString = ""
 data_amount = 0
+data_list = [[],[],[]]
 
 while True:
     curTime = time.monotonic() # type: ignore
     difference_time = curTime - start_time
     
     
-    acc = mpu.acceleration
-    added = [round(x,3) for x in acc ] 
+    acceleration = mpu.acceleration
+    rounded_values = [round(x,3) for x in acceleration ] 
     # 0x6a
-    
     # 0.768448, 0.181718, -1.70216
     
+    data_list[0].append(rounded_values[0] -0.768448)
+    data_list[1].append(rounded_values[1]-0.182517)
+    data_list[2].append(rounded_values[2] +1.70052)
     
-    roundValue = 2
-    pString += f" {curTime}, {added[0] -0.768448}, {added[1]-0.182517}, {added[2] +1.70052}, " + "\n"
+    
+    
     data_amount +=1
     
     if round(difference_time,1) % 2 == 0:
-        print(pString)
-        pString = ""
+        for i in range(len(data_list[0])):
+            print(f" X: {data_list[i][0]:.2f}, Y: {data_list[i][1]:.2f}, Z: {data_list[i][2]:.2f}")
+        
+        data_list = [[],[],[]]
     
         
