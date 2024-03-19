@@ -7,6 +7,11 @@ from scipy.integrate import cumtrapz,trapz
 
 
 def integrate_and_plot(path:str)->None:
+    import numpy as np
+    import pandas as pd
+    import matplotlib.pyplot as plt
+
+
 
     data = pd.read_csv(path,header= 0)
     # data = pd.read_csv('Simulation Code/Integration handler/accelerometer_data.csv',header= 0)
@@ -41,3 +46,5 @@ def integrate_and_plot(path:str)->None:
 
 
 
+path = "Data/2024-03-18 21:23:41.csv"
+integrate_and_plot(path)
