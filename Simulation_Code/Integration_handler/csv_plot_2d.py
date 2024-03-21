@@ -1,7 +1,7 @@
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
-from scipy.integrate import cumtrapz,trapz
+from scipy.integrate import cumtrapz,trapz,cumulative_trapezoid
 
 
 
@@ -24,27 +24,29 @@ def integrate_and_plot(path:str)->None:
     z = data.iloc[:, 3].to_numpy() # +4.72263
 
 
+    xI1 = cumulative_trapezoid(x,t,initial=0)
+    xI2 = cumulative_trapezoid(xI1,t,initial=0)
+    
+    yI1 = cumulative_trapezoid(y,t,initial=0)
+    yI2 = cumulative_trapezoid(yI1,t,initial=0)
+    
+    zI1 = cumulative_trapezoid(z,t,initial=0)
+    zI2 = cumulative_trapezoid(zI1,t,initial=0)
 
 
-    def integrate(x,y):
-        r_array = np.zeros(len(x))
-        for i in range(1, len(x)):
-            r_array[i] =   y[i-1] +  (y[i-1] + y[i])/2 * (x[i] - x[i-1])
-        r_array[0] = r_array[1] # normalize the first value 
-        return r_array
+    
+    fig, ax = plt.subplots(1,3)
+    
+    ax[0].plot(t,xI2,'b',label = 'x',)
+    ax[1].plot(t,yI2,'g',label = 'y')
+    ax[2].plot(t,zI2,'r',label = 'z')
+    
+    
 
-
-    xI1 = integrate(t, x)
-    xI2 = integrate(t,xI1)
-
-    plt.plot(t,x,'r')
-    plt.plot(t,xI1,'g')
-    plt.plot(t,xI2,'b')
-    plt.legend(['acceleration','velocity', 'positon'])
-    plt.title('Position while still')
+    
+    
     plt.show()
 
-
-
-path = "Data/2024-03-18 21:23:41.csv"
+# path = "Data/2024-03-19 13:31:01.csv"
+path = "Data/SIN_MOVE_ODR_DIV_800.csv"
 integrate_and_plot(path)

@@ -1,24 +1,22 @@
 
 import matplotlib.pyplot as plt
 import numpy as np
+from scipy.integrate import cumtrapz,trapz
 
 
-def integrate(x,y):
+def dbl_cumtrapz(x,y):
     r_array = np.zeros(len(x))
     for i in range(1, len(x)):
         r_array[i] =   y[i-1] +  (y[i-1] + y[i])/2 * (x[i] - x[i-1])
+    r_array[0] = r_array[1] # normalize the first value 
     return r_array
         
         
-        
-x = np.linspace(0, 4, num=100)
-y = x**2
-y_int = integrate(x,y)
-plt.plot(x,y)
-plt.plot(x,integrate(x,y), 'r')
-plt.plot(x, x**3/3, 'g' )
+x = np.linspace(0, 10, 100)
 
-
-
-# plt.plot(x,x**3/3)
-plt.show()  
+plt.plot(x, cumtrapz(np.cos(x),x,initial=0))
+# plt.plot(x,np.sin(x))
+plt.plot(x,np.sin(x))
+plt.plot(x,np.cos(x))
+plt.legend(['cumtrapz','integrated','original'])
+plt.show()
