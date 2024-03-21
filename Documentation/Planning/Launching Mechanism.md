@@ -64,6 +64,22 @@ Cons:
 - [Premade E-match](https://www.apogeerockets.com/Rocket-Motors/Motor-Starters/Firewire-Mini-Initiator-6-pk)
 
 
+# Versions 
+
+## V1
+our first editions was simply a set of 2 plates connected to a 9v battery which the igniter wires would contact when the shell hit the bottom of the tube. This design failed to give us a launch after we tested it so we decided to make a 
+
+
+## V2
+The second version was much more complex and involved a helix which would garentee the position of the probes that contact the plate. We still were unable to get this to ignite a rocket motor. We decided that it was too hard to get an already inconsistant igniter to fire 
+
+## V3
+
+
+
+
+
+
 
 ---
 
