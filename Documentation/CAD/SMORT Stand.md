@@ -30,6 +30,15 @@ To fix this error, we rebuffed the supports all along the tube and increased the
 
 In these pictures you can see where the first stand iteration broke and what we did to add more supports.
 
-![broken-1](https://github.com/Pweder69/SMORT/blob/5f68a7ffc30c6912717af6a4a2e1791e5784bd08/Documentation/Images/Images/brokensmortstand1.jpg)
+<img src = "https://github.com/Pweder69/SMORT/blob/5f68a7ffc30c6912717af6a4a2e1791e5784bd08/Documentation/Images/Images/brokensmortstand1.jpg" width =600>
 
-![broken-2](https://github.com/Pweder69/SMORT/blob/5f68a7ffc30c6912717af6a4a2e1791e5784bd08/Documentation/Images/Images/brokensmortstand2.jpg)
+<img src = "https://github.com/Pweder69/SMORT/blob/5f68a7ffc30c6912717af6a4a2e1791e5784bd08/Documentation/Images/Images/brokensmortstand2.jpg" width =600>
+
+<img src = "" width =600>
+
+<img src = "" width =600>
+
+
+
+<img src = "" width =600>
+
