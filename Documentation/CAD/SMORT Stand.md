@@ -14,6 +14,8 @@ The first iteration for the stand ended up being a direct model of the air canno
 
 <img src = "https://github.com/Pweder69/SMORT/assets/112962114/2399ef9b-2cfa-4fbe-a669-7ecdeb2607ae" width =600>
 ¹
+
+
 pros: 
 *   this type of stand has its' own housing
 *   does not require a structure to secure it
