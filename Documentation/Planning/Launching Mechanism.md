@@ -67,7 +67,7 @@ Cons:
 # Versions 
 
 ## V1
-our first editions was simply a set of 2 plates connected to a 9v battery which the igniter wires would contact when the shell hit the bottom of the tube. This design failed to give us a launch after we tested it so we decided to make a 
+our first editions was simply a set of 2 plates connected to a 9v battery which the igniter wires would contact when the shell hit the bottom of the tube. This design failed to give us a launch after we tested it so we decided to make a more complex version that would give us a good contact.
 
 
 ## V2
@@ -79,7 +79,7 @@ The third version will see the rocket starting at the bottom of the tube with th
 
 ## Conclusions 
 
-After attempting this design challenging it has become obvious why nobody makes a drop motar with model rocket motors. Powder actuated projectiles would give a more consistant exit velocity and thus make them more precise at all ranges. The are also much more compact in both the shell and the tube. If I was to do this project outside of an educational environment I would use a fixed firing pin at the bottom of the tube and a mortar shell that used a primers and propellant charge. This would give us a very consistant launch as well as being very inexpensive to manufacture. 
+After attempting this design challenging it has become obvious why nobody makes a drop motar with model rocket motors. Powder actuated projectiles would give a more consistant exit velocity and thus make them more precise at all ranges. The are also much more compact in both the shell and the tube. If I was to do this project outside of an educational environment I would use a fixed firing pin at the bottom of the tube and a mortar shell that used a primers and propellant charge. This would give us a very consistant launch as well as being very inexpensive to manufact. 
 
 
 
