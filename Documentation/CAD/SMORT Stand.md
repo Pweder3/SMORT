@@ -14,11 +14,31 @@ The first iteration for the stand ended up being a direct model of the air canno
 
 <img src = "https://github.com/Pweder69/SMORT/assets/112962114/2399ef9b-2cfa-4fbe-a669-7ecdeb2607ae" width =600>
 ¹
+pros: 
+*   this type of stand has its' own housing
+*   does not require a structure to secure it
+
+cons: 
+* needs more complicated tech to to rotate the tube to correct angle
+* the more complicated desigtn
+* not many good models for non industrial use
+
+
 
 &nbsp;
 
 <img src = "https://github.com/Pweder69/SMORT/assets/112962114/0563aa02-cb58-4b80-af9b-4fbd8360f276" width =600>
 ²
+
+pros:
+
+* we already have a model(mr miller's satelite dish stand) that was used for the potato cannon
+* simple design
+* only needs slight sjdustments in CAD
+
+
+cons:
+*  has some issues with material vs securing supports to maintain stability and resist craacking
 
 ## Design No. 2
 
@@ -34,7 +54,7 @@ In these pictures you can see where the first stand iteration broke and what we 
 
 <img src = "https://github.com/Pweder69/SMORT/blob/5f68a7ffc30c6912717af6a4a2e1791e5784bd08/Documentation/Images/Images/brokensmortstand2.jpg" width =600>
 
-<img src = "" width =600>
+<img src = "https://github.com/Pweder69/SMORT/blob/828f87cacca8e9e3cd6aa15cd89b9c4cc2f66ad1/Documentation/Images/Planning/Tube%20Holder.png" width =600>
 
 <img src = "" width =600>
 
