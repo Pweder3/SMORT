@@ -12,12 +12,12 @@ There were a couple of different brainstorming ideas for this stand. The first c
 &nbsp;
 The first iteration for the stand ended up being a direct model of the air cannon stand modeled off image². We are also going to put it on a little cart so we can wheel it around, IN A VERY SAFE MANNER. Because there is absolutely nothing inherently dangerous about a rocket launcher on wheels.
 
-![mode 1 smort stand](https://github.com/Pweder69/SMORT/assets/112962114/2399ef9b-2cfa-4fbe-a669-7ecdeb2607ae)
+<img src = "https://github.com/Pweder69/SMORT/assets/112962114/2399ef9b-2cfa-4fbe-a669-7ecdeb2607ae" width =600>
 ¹
 
 &nbsp;
 
-![model for smort stand](https://github.com/Pweder69/SMORT/assets/112962114/0563aa02-cb58-4b80-af9b-4fbd8360f276)
+<img src = "https://github.com/Pweder69/SMORT/assets/112962114/0563aa02-cb58-4b80-af9b-4fbd8360f276" width =600>
 ²
 
 ## Design No. 2
@@ -37,7 +37,6 @@ In these pictures you can see where the first stand iteration broke and what we 
 <img src = "" width =600>
 
 <img src = "" width =600>
-
 
 
 <img src = "" width =600>
