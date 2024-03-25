@@ -37,3 +37,7 @@ The team believes that the rocket failed for a few different reasons. First off 
 
 We decided that for the next launch, we would not attempt the drop launch. Paul Weder is no longer allowed to select the batteries that will be used. If we have success with the next launch we will then attempt to launch with electronics. Once all of this is complete we will revisit the drop system.
 
+
+## Launch 4 / 1st Successful Launch
+
+The fourth launch was the first "successful" launch. 
