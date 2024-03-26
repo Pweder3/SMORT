@@ -40,4 +40,6 @@ We decided that for the next launch, we would not attempt the drop launch. Paul 
 
 ## Launch 4 / 1st Successful Launch
 
-The fourth launch was the first "successful" launch. 
+The fourth launch was the first "successful" launch. To call it a launch would be generous however. This was a success in terms of the fact that we had an ignition and the motor started. The rocket itself did not produce any visible upward motion out of the tube. 
+
+![rocket firing](https://github.com/Pweder69/SMORT/blob/4c705ac4daa0246de55eab11413d16aae2a19790/Documentation/Images/Images/igntion1.vid.MOV)
