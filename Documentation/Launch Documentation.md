@@ -53,13 +53,7 @@ However, to call it a launch would be generous . This was a success in terms of 
 
 This is probably the team's biggest step towards improvement so far. The fins of the rocket were completely fried/melted upon engaging of the motor. The fins should have been printed with PETG, but after removing the tube, they had metled in a suspisiously similar way to PLA filament. The other thing that will need to get ironed out before the next launch is the fact that there was no upward movement out of the yube. Calculations need to be double checked and we need to troubleshoot for oher potential problems with liftoff.  
 
-<img src = "https://github.com/Pweder69/SMORT/blob/main/Documentation/Images/Images/fullbody.ignition1.jpg" width =300>
+<img src = "https://github.com/Pweder69/SMORT/blob/main/Documentation/Images/Images/fullbody.ignition1.jpg" width =500>
 
-<img src = "https://github.com/Pweder69/SMORT/blob/main/Documentation/Images/Images/smort.front.ignition1.jpg" width =200>
-<img src = "https://github.com/Pweder69/SMORT/blob/main/Documentation/Images/Images/smort.mid.ignition1.jpg" width =200>
-<img src = "https://github.com/Pweder69/SMORT/blob/main/Documentation/Images/Images/smort.tail.ignition1.jpg" width =200>
-<img src = "https://github.com/Pweder69/SMORT/blob/main/Documentation/Images/Images/motor.ignition1.jpg" width =200>
-<img src = "https://github.com/Pweder69/SMORT/blob/main/Documentation/Images/Images/ignitor.ignition1.jpg" width =200>
-<img src = "https://github.com/Pweder69/SMORT/blob/main/Documentation/Images/Images/endcap.ignition1.jpg" width =200>
-<img src = "https://github.com/Pweder69/SMORT/blob/main/Documentation/Images/Images/tubeview.ignition1.jpg" width =200>
+<img src = "https://github.com/Pweder69/SMORT/blob/main/Documentation/Images/Images/smort.front.ignition1.jpg" width =200> <img src = "https://github.com/Pweder69/SMORT/blob/main/Documentation/Images/Images/smort.mid.ignition1.jpg" width =200> <img src = "https://github.com/Pweder69/SMORT/blob/main/Documentation/Images/Images/smort.tail.ignition1.jpg" width =200> <img src = "https://github.com/Pweder69/SMORT/blob/main/Documentation/Images/Images/motor.ignition1.jpg" width =200> <img src = "https://github.com/Pweder69/SMORT/blob/main/Documentation/Images/Images/ignitor.ignition1.jpg" width =200> <img src = "https://github.com/Pweder69/SMORT/blob/main/Documentation/Images/Images/endcap.ignition1.jpg" width =200> <img src = "https://github.com/Pweder69/SMORT/blob/main/Documentation/Images/Images/tubeview.ignition1.jpg" width =200>
 
