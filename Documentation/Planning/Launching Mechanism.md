@@ -1,6 +1,6 @@
 
 # Description/Guidance
-write down every idea under a `#` and then bullet point sub things
+write down every idea under a `#` and then bullet point sub-things
 
 
 # Dump
@@ -45,7 +45,7 @@ Cons:
 
 ## Internal Launch Mech
 
-Have the igniter in the rocket motor mounted in the shell. When droped down the barrel the wires that go to the igniter will be bridged and have current flow through them. 
+Have the igniter in the rocket motor mounted in the shell? When dropped down the barrel the wires that go to the igniter will be bridged and have current flow through them. 
 
 Pros:
 - Safe
@@ -67,19 +67,22 @@ Cons:
 # Versions 
 
 ## V1
-our first editions was simply a set of 2 plates connected to a 9v battery which the igniter wires would contact when the shell hit the bottom of the tube. This design failed to give us a launch after we tested it so we decided to make a more complex version that would give us a good contact.
+our first edition was simply a set of 2 plates connected to a 9v battery which the igniter wires would contact when the shell hit the bottom of the tube. This design failed to give us a launch after we tested it so we decided to make a more complex version that would give us a good contact.
 
 
 ## V2
-The second version was much more complex and involved a helix which would garentee the position of the probes that contact the plate. We still were unable to get this to ignite a rocket motor. We decided that it was too hard to get an already inconsistant igniter to fire from a dropped projectile.
+The second version was much more complex and involved a helix which would guarantee the position of the probes that contact the plate. We still were unable to get this to ignite a rocket motor. We decided that it was too hard to get an already inconsistent igniter to fire from a dropped projectile.
 
 ## V3
-The third version will see the rocket starting at the bottom of the tube with the igniter wired directly to the launching activator. The activators are much more consistant than a homemade version. Using them we will be sure that we are getting the right ammount of current. If we can get this to work then we will hopefully be able to design a mechanism that will give us consistant ignition with a dropped shell.
+The third version will see the rocket starting at the bottom of the tube with the igniter wired directly to the launching activator. The activators are much more consistent than a homemade version. Using them we will be sure that we are getting the right amount of current. If we can get this to work then we will hopefully be able to design a mechanism that will give us consistent ignition with a dropped shell.
+
+## V4
+Because we were running low on time we decided to launch using the air cannon instead of using rocket motors. This will allow us more time to adjust our shell designs much faster. Lucia started work on a design that used deployable fins to give us better stability in flight. We plan to do several launches with different fin types and observe for a few different vectors. First, we will check to ensure the fins are consistent in deploying. Next, we will watch the rocket's stability in its flight path. Finally, we will look at our rocket after the landing and see if our fins are durable enough to survive a landing. We will then make adjustments to the weight, fin size, and the location of the center of mass.
 
 
 ## Conclusions 
 
-After attempting this design challenging it has become obvious why nobody makes a drop motar with model rocket motors. Powder actuated projectiles would give a more consistant exit velocity and thus make them more precise at all ranges. The are also much more compact in both the shell and the tube. If I was to do this project outside of an educational environment I would use a fixed firing pin at the bottom of the tube and a mortar shell that used a primers and propellant charge. This would give us a very consistant launch as well as being very inexpensive to manufact. 
+After attempting this design challenge it has become obvious why nobody makes a motar with model rocket motors. Powder-actuated projectiles would give a more consistent exit velocity and thus make them more precise at all ranges. They are also much more compact in both the shell and the tube. If I was to do this project outside of an educational environment I would use a fixed firing pin at the bottom of the tube and a mortar shell that used primers and propellant charge. This would give us a very consistent launch as well as being very inexpensive to manufacture. 
 
 
 
