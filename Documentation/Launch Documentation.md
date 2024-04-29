@@ -38,7 +38,7 @@ The team believes that the rocket failed for a few different reasons. First off 
 We decided that for the next launch, we would not attempt the drop launch. Paul Weder is no longer allowed to select the batteries that will be used. If we have success with the next launch we will then attempt to launch with electronics. Once all of this is complete we will revisit the drop system.
 
 
-## Launch 4 / 1st Successful Launch
+## Launch 4 / 1st "Successful" Launch
 
 The fourth launch was the first "successful" launch on March 25th, 2024. 
 
@@ -57,3 +57,17 @@ This is probably the team's biggest step towards improvement so far. The fins of
 
 <img src = "https://github.com/Pweder69/SMORT/blob/main/Documentation/Images/Images/smort.front.ignition1.jpg" width =200> <img src = "https://github.com/Pweder69/SMORT/blob/main/Documentation/Images/Images/smort.mid.ignition1.jpg" width =200> <img src = "https://github.com/Pweder69/SMORT/blob/main/Documentation/Images/Images/smort.tail.ignition1.jpg" width =200> <img src = "https://github.com/Pweder69/SMORT/blob/main/Documentation/Images/Images/motor.ignition1.jpg" width =200> <img src = "https://github.com/Pweder69/SMORT/blob/main/Documentation/Images/Images/ignitor.ignition1.jpg" width =300> <img src = "https://github.com/Pweder69/SMORT/blob/main/Documentation/Images/Images/endcap.ignition1.jpg" width =200> <img src = "https://github.com/Pweder69/SMORT/blob/main/Documentation/Images/Images/tubeview.ignition1.jpg" width =200>
 
+
+
+
+
+## Launch 5
+Launched April 25th, 2024.
+two luanched rockets. Success!? We changed the launch process from the rocket motor to an aircannon. The rocket exited the end of the barrel (unlike the other launch iterations) but the fins were shreaded before leaving the tube. This was due to someone leaving a AA battery and a piece from a 3D printed rocket. No deployable fins yet. For whatever reason, the filming of this iteration was botched on the first launch. The second filming was 
+
+batteries killed it
+
+## Launch 6
+Launched April 29th, 2024.
+most successful. 3 launches from the air cannon took place.
+deployable fins worked. had nice spin and landed on spring. the only thijng we still need to fix is the longevity of the rocket. After a coulpe of launches, the spring starts digging into the rocket head and the fusalage starts to crack a little. This is a very fixable problem.
