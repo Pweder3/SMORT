@@ -8,3 +8,10 @@ Pros:
 
 Cons:
 * Could affect the flight pattern 
+
+
+## Lucia's Design
+
+
+## Cyrus's Design
+
