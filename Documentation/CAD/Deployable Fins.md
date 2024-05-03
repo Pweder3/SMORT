@@ -8,6 +8,8 @@ Pros:
 
 Cons:
 * Could affect the flight pattern 
+* might not deploy properly
+* 
 
 
 ## Lucia's Design
