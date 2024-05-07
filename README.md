@@ -18,7 +18,7 @@
 
 
 # Planning 
-
+Here is a more detailed planning document[LINK](https://github.com/Pweder3/SMORT/tree/main/Documentation/Planning).
 # Materials
 _a long list of everything we needed for our project. even if it isn't in the final project it should be listed with a note that says why it didn't stick_ 
 _
