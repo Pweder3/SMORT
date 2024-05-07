@@ -14,6 +14,7 @@ Cons:
 
 ## Lucia's Design
 
+This design was made with the intention to house the fins and have them protrude after launch, to give stability to the rocket. This desgin was good in theory, but it ultimately became too cluncky to be able to use reaspnably. 
 
 ## Cyrus's Design
 
