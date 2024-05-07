@@ -23,9 +23,9 @@
 
 # CAD
 
-# Photos_of_the_Shell_and_Cannon
+# Photos of the Shell and Cannon
 
-# Circuit_Diagram
+# Circuit Diagram
 
 # Code
 
@@ -38,9 +38,9 @@ to calibrate you can follow [this](https://cdn-learn.adafruit.com/downloads/pdf/
 
 Note that some may have to **use Python 3.11 or lower** because of import changes in 3.12. To find the serial port that the metro is connected to use the Arduino IDE and go to tools and then port and it should be the one listed under your board. Also, note that this info is all our teams issues with the tutorial and the problems that we had.
 
-# Failed_launches_and_other_issues
+# Failed Launches and other Issues
 
 
-# Plotted_Data_and_Analysis
+# Plotted Data and Analysis
 
-# Best_Videos_of_the_Final_Launch
+# Best Videos of the Final Launch
