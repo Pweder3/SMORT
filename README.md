@@ -26,8 +26,8 @@ _
 # CAD
 Here is a link to more detailed documentation of our CAD process [LINK](https://github.com/Pweder3/SMORT/tree/main/Documentation/CAD).
 Here is a link to our OnShape document where you can directly look at our CAD [LINK](https://github.com/Pweder3/SMORT/blob/main/Documentation/CAD/OnshapeLink.md)
-
-
+[DeployedFins](https://github.com/Pweder3/SMORT/blob/main/Documentation/Images/Images/Deployable%20Fins%20Image.png)
+[FoldedFins](https://github.com/Pweder3/SMORT/blob/main/Documentation/Images/Images/Deployable%20Fins%20Packed.png)
 # Photos
 _photos that we took during the building process
 _
