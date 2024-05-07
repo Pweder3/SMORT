@@ -22,6 +22,7 @@ This design was made with the intention to house the fins and have them protrude
 
 
 ## Cyrus's Design
+This design proved to be very helpful. This design brought back the center of pressure so much more than the other deployable fin design. It is important to stay aware of the fact that this design now looks like 
 
-<img src = "" width =300>
-<img src = "" width =300>
+<img src = "https://github.com/Pweder3/SMORT/blob/8dce3748125958c3205810a49f6f0b5950652b31/Documentation/Images/Images/cyrus.fins-sectionview.png" width =300>
+<img src = "https://github.com/Pweder3/SMORT/blob/8dce3748125958c3205810a49f6f0b5950652b31/Documentation/Images/Images/cyrus.fins.png" width =300>
