@@ -63,11 +63,15 @@ This is probably the team's biggest step towards improvement so far. The fins of
 
 ## Launch 5
 Launched April 25th, 2024.
-two luanched rockets. Success!? We changed the launch process from the rocket motor to an aircannon. The rocket exited the end of the barrel (unlike the other launch iterations) but the fins were shreaded before leaving the tube. This was due to someone leaving a AA battery and a piece from a 3D printed rocket. No deployable fins yet. For whatever reason, the filming of this iteration was botched on the first launch. The second filming was 
 
-batteries killed it
+two luanched rockets. Success!? We changed the launch process from the rocket motor to an aircannon. The rocket exited the end of the barrel (unlike the other launch iterations) but the fins were shreaded before leaving the tube. This was due to someone leaving a AA battery and a piece from a 3D printed rocket. No deployable fins yet. For whatever reason, the filming of this iteration was botched on the first launch. The second filming was only slightly more successful, considering the rocket is only in the shot for around one frame. Becuase the fins were shreaded immediatley, the rocket did not have an optimal flight pattern. It started to roll mid flight. 
+
+batteries killed it :( 
 
 ## Launch 6
 Launched April 29th, 2024.
+
 most successful. 3 launches from the air cannon took place.
-deployable fins worked. had nice spin and landed on spring. the only thijng we still need to fix is the longevity of the rocket. After a coulpe of launches, the spring starts digging into the rocket head and the fusalage starts to crack a little. This is a very fixable problem.
+deployable fins worked. We used cyrus's design of deployable fins. had nice spin and landed on spring. the only thijng we still need to fix is the longevity of the rocket. After a coulpe of launches, the spring starts digging into the rocket head and the fusalage starts to crack a little. This is a very fixable problem. We sent this rocket up with no technolgy inside. This is because Paul's code is not ready yet. This is rather unfortunate, considering we have now had a few launches that could have collected valuable data.
+
+<img src = "Pweder69/SMORT/Documentation/Images/Images/launch6.gif" width =300>
