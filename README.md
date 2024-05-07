@@ -20,11 +20,15 @@
 # Planning 
 
 # Materials
-a long list of everything we needed for our project. even if it isn't in the final project it should be listed with a note that says why it didn't stick 
+_a long list of everything we needed for our project. even if it isn't in the final project it should be listed with a note that says why it didn't stick_ 
+_
+
 # CAD
-renders of the parts in CAD and some info on why we did or didn't use it
+_renders of the parts in CAD and some info on why we did or didn't use it
+_
 # Photos
-photos that we took during the building process
+_photos that we took during the building process
+_
 # Circuit Diagram
 
 # Code
@@ -45,4 +49,5 @@ rocket exploding, code issues and broken parts
 
 # Final_Version
 
-needs to include the best videos we have of our final launch as well as a picture of the rocket and cannon fully assembled
+_needs to include the best videos we have of our final launch as well as a picture of the rocket and cannon fully assembled
+_
