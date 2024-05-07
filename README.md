@@ -31,7 +31,10 @@ Here is a link to our OnShape document where you can directly look at our CAD [L
 Here is a picture of our fin design in the folded position
 <img src = "https://github.com/Pweder3/SMORT/blob/main/Documentation/Images/Images/Deployable%20Fins%20Image.png" width = 500>
 This is a picture of our fins in the deployed position
+
+
 # Photos
+
 _photos that we took during the building process
 _
 # Circuit Diagram
