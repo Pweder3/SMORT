@@ -50,11 +50,12 @@ rocket exploding, code issues and broken parts
 
 <img src = "https://github.com/Pweder69/SMORT/blob/main/Documentation/Images/Images/fullbody.ignition1.jpg" width =500>
 
-<img src = "https://github.com/Pweder69/SMORT/blob/main/Documentation/Images/Images/smort.front.ignition1.jpg" width =200> <img src = "https://github.com/Pweder69/SMORT/blob/main/Documentation/Images/Images/smort.mid.ignition1.jpg" width =200> <img src = "https://github.com/Pweder69/SMORT/blob/main/Documentation/Images/Images/smort.tail.ignition1.jpg" width =200> <img src = "https://github.com/Pweder69/SMORT/blob/main/Documentation/Images/Images/motor.ignition1.jpg" width =200> <img src = "https://github.com/Pweder69/SMORT/blob/main/Documentation/Images/Images/ignitor.ignition1.jpg" width =300> <img src = "https://github.com/Pweder69/SMORT/blob/main/Documentation/Images/Images/endcap.ignition1.jpg" width =200> <img src = "https://github.com/Pweder69/SMORT/blob/main/Documentation/Images/Images/tubeview.ignition1.jpg" width =200>
+<img src = "https://github.com/Pweder69/SMORT/blob/main/Documentation/Images/Images/smort.front.ignition1.jpg" width =200> <img src = "https://github.com/Pweder69/SMORT/blob/main/Documentation/Images/Images/endcap.ignition1.jpg" width =200> <img src = "https://github.com/Pweder69/SMORT/blob/main/Documentation/Images/Images/tubeview.ignition1.jpg" width =200>
 
 
 
 
+[More_Launch_Info](https://github.com/Pweder3/SMORT/blob/main/Documentation/Launch%20Documentation.md)
 
 # Plotted_Data+Analysis
 
