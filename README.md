@@ -37,7 +37,7 @@ This is a picture of our fins in the deployed position
 
 _photos that we took during the building process
 _
-# Circuit Diagram
+# Circuit_Diagram
 
 
 
