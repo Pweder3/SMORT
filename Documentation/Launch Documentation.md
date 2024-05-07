@@ -74,4 +74,4 @@ Launched April 29th, 2024.
 most successful. 3 launches from the air cannon took place.
 deployable fins worked. We used cyrus's design of deployable fins. had nice spin and landed on spring. the only thijng we still need to fix is the longevity of the rocket. After a coulpe of launches, the spring starts digging into the rocket head and the fusalage starts to crack a little. This is a very fixable problem. We sent this rocket up with no technolgy inside. This is because Paul's code is not ready yet. This is rather unfortunate, considering we have now had a few launches that could have collected valuable data.
 
-<img src = "Pweder69/SMORT/Documentation/Images/Images/launch6.gif" width =300>
+<img src = "https://github.com/Pweder3/SMORT/blob/main/Documentation/Images/Images/launch6.gif" width =300>
