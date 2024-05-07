@@ -65,6 +65,6 @@ We had many failed launch attempts with our rocket-propelled shells and we have 
 # Plotted_Data+Analysis
 
 # Final_Version
-
+<img src = "https://github.com/Pweder3/SMORT/blob/main/Documentation/Images/Images/launch6.gif" width = 800>
 _needs to include the best videos we have of our final launch as well as a picture of the rocket and cannon fully assembled
 _
