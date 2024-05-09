@@ -39,6 +39,7 @@ Pros:
 * fins are flush to body 
 * open automatically by air drag moving around rocket (does not require rubber band method) 
 * lighter and less material
+
 Cons:
 * Looks like hellfire missile
 
