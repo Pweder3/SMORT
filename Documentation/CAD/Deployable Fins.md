@@ -26,4 +26,5 @@ This design proved to be very helpful. This design brought back the center of pr
 
 <img src = "https://github.com/Pweder3/SMORT/blob/8dce3748125958c3205810a49f6f0b5950652b31/Documentation/Images/Images/cyrus.fins-sectionview.png" width =300>
 <img src = "https://github.com/Pweder3/SMORT/blob/8dce3748125958c3205810a49f6f0b5950652b31/Documentation/Images/Images/cyrus.fins.png" width =300>
-<img src = "https://github.com/Pweder3/SMORT/blob/8dce3748125958c3205810a49f6f0b5950652b31/Documentation/Images/Images/cyrus.fins-sectionview.png" width =300>
+<img src = "https://github.com/Pweder3/SMORT/blob/a59563d5546bd87653a297ddd4fd5d98279a79d2/Documentation/Images/Images/hellfire.jpg" width =300>
+:/
