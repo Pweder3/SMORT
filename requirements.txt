@@ -35,6 +35,7 @@ pytz==2023.3.post1
 pyzmq==25.1.2
 scipy==1.12.0
 six==1.16.0
+setuptools==69.5.1
 stack-data==0.6.3
 tornado==6.4
 traitlets==5.14.1

@@ -4,13 +4,15 @@ import busio # type: ignore
 import board # type: ignore
 import digitalio # type: ignore
 from adafruit_lsm6ds.lsm6dsox import LSM6DSOX # type: ignore
+import adafruit_mpl3115a2
 
 
 
 sda_pin = board.GP16
 scl_pin = board.GP17
 
-i2c = busio.I2C(scl_pin, sda_pin)   
+# i2c = busio.I2C(scl_pin, sda_pin)  
+i2c = board.STEMMA_I2C() 
 
 
 mpu = LSM6DSOX(i2c)
@@ -38,7 +40,7 @@ while True:
     data_amount +=1
     
     if round(difference_time,1) % 2 == 0:
-        for i in range(len(data_list[0])):
+        for i in range(len(data_list)):
             print(f" X: {data_list[i][0]:.2f}, Y: {data_list[i][1]:.2f}, Z: {data_list[i][2]:.2f}")
         
         data_list = [[],[],[]]
