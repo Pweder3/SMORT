@@ -24,7 +24,7 @@ _a long list of everything we needed for our project. even if it isn't in the fi
 _
 
 # CAD
-Most of the CAD that we did was to create the Shell that we would fire and the mount for the tube. Both of these items were 3d printed 
+Most of the CAD that we did was to create the shell that we would fire and the mount for the tube. Both of these items were 3d printed. All three group members worked on the CAD but most of it was done by Lucia and Cyrus
 
 - Tube Mount
 
@@ -53,13 +53,13 @@ _
 # Code
 
 ## Replication of the calibration
-to calibrate you can follow [this](https://cdn-learn.adafruit.com/downloads/pdf/adafruit-sensorlab-magnetometer-calibration.pdf) tourtial from adafruit. Use a metro M4 (I used an airlift) not a pico because it doesnt seem to be able to run the code given in the tutorial. Another thing to note is that you need a certain amount of program mem that things like the Arduino UNO don't have. To install the dependencies for Python run the following commands in the terminal
+to calibrate you can follow [this](https://cdn-learn.adafruit.com/downloads/pdf/adafruit-sensorlab-magnetometer-calibration.pdf) tourtial from adafruit. Use a metro M4 (I used an airlift) not a pico because it doesn't seem to be able to run the code given in the tutorial. Another thing to note is that you need a certain amount of program mem that things like the Arduino UNO don't have. To install the dependencies for Python run the following commands in the terminal
 
 - `pip3 install matplotlib`
 - `pip3 install pyserial` (Although the import message says import serial it is part of the pyserial package, not the serial package)
 - `pip3 install numpy`
 
-Note that some may have to **use Python 3.11 or lower** because of import changes in 3.12. To find the serial port that the metro is connected to use the Arduino IDE and go to tools and then port and it should be the one listed under your board. Also, note that this info is all our teams issues with the tutorial and the problems that we had.
+Note that some may have to **use Python 3.11 or lower** because of import changes in 3.12. To find the serial port that the metro is connected to use the Arduino IDE and go to tools and then port and it should be the one listed under your board. Also, note that this info is all our team's issues with the tutorial and the problems that we had.
 
 # Failures
 We had many failed launch attempts with our rocket-propelled shells and we have more documentation of those attempts here [More Launch Info](https://github.com/Pweder3/SMORT/blob/main/Documentation/Launch%20Documentation.md)
