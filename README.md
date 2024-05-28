@@ -24,6 +24,15 @@ _a long list of everything we needed for our project. even if it isn't in the fi
 _
 
 # CAD
+Most of the CAD that we did was to create the Shell that we would fire and the mount for the tube. Both of these items were 3d printed 
+
+- Tube Mount
+
+- Shell
+The shell is modular and all of our versions involved 3-4 sections that could be removed and replaced if we broke them or decided on a different design. This was very useful when making the fins. We went through 5 different variations of the fin design and if we hadn't made the rocket modular we wouldn't have had to reprint a new rocket every time. Paul's thread design makes it super easy to remove the parts. The Nose and body parts remained the same the whole time. We could've made improvements to the nose but we found that the design was good enough for our purposes. The fins desperately needed a redesign. With the use of OpenRocket and internet research, we decided that deployable fins would be our best option.
+
+
+
 Here is a link to more detailed documentation of our CAD process [LINK](https://github.com/Pweder3/SMORT/tree/main/Documentation/CAD).
 Here is a link to our OnShape document where you can directly look at our CAD [LINK](https://github.com/Pweder3/SMORT/blob/main/Documentation/CAD/OnshapeLink.md)
 
