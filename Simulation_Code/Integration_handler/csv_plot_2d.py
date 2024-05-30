@@ -13,8 +13,8 @@ def integrate_and_plot(path:str)->None:
 
 
 
-    data = pd.read_csv(path,header= 0)
-    # data = pd.read_csv('Simulation Code/Integration handler/accelerometer_data.csv',header= 0)
+    # data = pd.read_csv(path,header= 0)
+    data = pd.read_csv('Data/long_Form_Still_Data.csv',header= 0)
 
 
 

@@ -3,7 +3,7 @@ from scipy.fft import fft, fftfreq,ifft
 import numpy as np
 import matplotlib.pyplot as plt
 from matplotlib.pyplot import savefig
-plt.style.use('dark_background')
+# plt.style.use('dark_background')
 
 coeficent = 5
 
