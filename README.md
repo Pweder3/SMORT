@@ -20,13 +20,15 @@
 # Planning 
 Here is a more detailed planning document[LINK](https://github.com/Pweder3/SMORT/tree/main/Documentation/Planning).
 # Materials
-_a long list of everything we needed for our project. even if it isn't in the final project it should be listed with a note that says why it didn't stick_ 
-_
+
 - Pico
 - Rocket Body
--
--
--
+- LSMDOX sensor
+- MPL3115A2 Altimeter
+- Spring
+- Fins
+- Tube
+- Tube mount
 -
 -
 -
@@ -89,8 +91,6 @@ We had many failed launch attempts with our rocket-propelled shells and we have 
 
 # Final_Version
 <img src = "https://github.com/Pweder3/SMORT/blob/main/Documentation/Images/Images/launch6.gif" width = 800>
-_needs to include the best videos we have of our final launch as well as a picture of the rocket and cannon fully assembled
-_
 
 
 ## Reflection
