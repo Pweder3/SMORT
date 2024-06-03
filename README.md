@@ -13,7 +13,7 @@
 * [Circuit Diagram](#Circuit_Diagram)
 * [Code](#Code)
 * [Failed launches and other issues](#Failures)
-* [Plotted Data and Analysis](#Plotted_Data+Analysis)
+* [Plotted Data and Analysis](#Data)
 * [Final Version](#Final_Version)
 * [Reflection](#Reflection)
 
@@ -106,7 +106,7 @@ We had many failed launch attempts with our rocket-propelled shells and we have 
 
 
 
-# Plotted_Data+Analysis
+# Data
 
 # Final_Version
 <img src = "https://github.com/Pweder3/SMORT/blob/main/Documentation/Images/Images/launch6.gif" width = 800>
