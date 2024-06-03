@@ -57,6 +57,11 @@ Here is a picture of our fin design in the folded position
 <img src = "https://github.com/Pweder3/SMORT/blob/main/Documentation/Images/Images/Deployable%20Fins%20Image.png" width = 500>
 This is a picture of our fins in the deployed position
 
+# OpenRocket
+
+OpenRocket is a free rocketry software that many model rocket builders use to plan their rockets before buying parts. 
+
+
 
 # Photos
 
@@ -85,6 +90,12 @@ We had many failed launch attempts with our rocket-propelled shells and we have 
 <img src = "https://github.com/Pweder69/SMORT/blob/48975b8509867a4feda575c4828a8f50840fb580/Documentation/Images/Images/ignition1.gif" width =300>
 <img src = "https://github.com/Pweder69/SMORT/blob/main/Documentation/Images/Images/fullbody.ignition1.jpg" width =500>
 <img src = "https://github.com/Pweder69/SMORT/blob/main/Documentation/Images/Images/endcap.ignition1.jpg" width =200><img src = "https://github.com/Pweder69/SMORT/blob/main/Documentation/Images/Images/tubeview.ignition1.jpg" width =200>
+
+## Rocket Propulsion
+
+
+## Low Pass Filter
+
 
 
 # Plotted_Data+Analysis
