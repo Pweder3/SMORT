@@ -60,9 +60,11 @@ This is a picture of our fins in the deployed position
 # OpenRocket
 
 OpenRocket is a free rocketry software that many model rocket builders use to plan their rockets before buying parts. 
-
-
-
+<img src = "https://github.com/Pweder3/SMORT/blob/main/Documentation/Images/Images/A8%20Perfect%20Conditions%2045%20Degrees.png" width = 500>
+<img src = "https://github.com/Pweder3/SMORT/blob/main/Documentation/Images/Images/B6%20Perfect%20Conditions%2045%20Degrees%20Graph.png" width = 500>
+<img src = "https://github.com/Pweder3/SMORT/blob/main/Documentation/Images/Images/C6%20Perfect%20Conditions%2045%20Degrees.png" width = 500>
+<img src = "https://github.com/Pweder3/SMORT/blob/main/Documentation/Images/Images/Smort%20OpenRocket%20sim2.PNG" width = 500>
+<img src = "" width = 500>
 # Photos
 
 _photos that we took during the building process
