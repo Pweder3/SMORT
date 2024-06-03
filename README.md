@@ -67,6 +67,7 @@ This is a picture of our fins in the deployed position
 Show above are 3 different simulations from open rocket. All of them are using the same rocket body but they each have a different motor size equipped. we can see how different size motors will affect any of the factors we have asked it to plot. We also used OpenRocket to compare different fin designs which you can easily edit. You can also change factors such as wind, barometric pressure, and launch angle. Learning to use this tool was crucial in making a good shell design.
 
 # Photos
+<img src = "https://github.com/Pweder3/SMORT/blob/main/Documentation/Images/Images/Smort%20Shell%20IRL.jpg" width = 500>
 <img src = "" width = 500>
 <img src = "" width = 500>
 <img src = "" width = 500>
@@ -74,9 +75,8 @@ Show above are 3 different simulations from open rocket. All of them are using t
 <img src = "" width = 500>
 <img src = "" width = 500>
 <img src = "" width = 500>
-<img src = "" width = 500>
-_photos that we took during the building process
-_
+
+
 # Circuit_Diagram
 
 
