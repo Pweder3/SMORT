@@ -30,7 +30,7 @@ if not write_pin.value: # Data Mode, shown by 10 short blinks
         led.value = False
         time.sleep(0.1)
         i = i+1
-
+ 
 else: # Code Mode, shown by three long blinks
     for i in range(3):
         print("CODE MODE")

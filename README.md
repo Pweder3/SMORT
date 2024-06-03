@@ -135,3 +135,4 @@ Here you can see our successful launch with the deployable fin design. This prev
 
 
 ### Paul's Reflection
+This project was a huge leap for me in the sense that for me it was a test of all of my abilities and then some as i had to learn countless new subjects thought the project to accomplish my goals. This project not only tested my abstract knowledge of subjects but made me implement them which i think is the tue value of the project and the true goal of this class to make us learn which i think i definitely accomplished. This project although was not all sun and roses as 
