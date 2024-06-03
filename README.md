@@ -59,8 +59,8 @@ This is a picture of our fins in the deployed position
 
 ### OpenRocket is a free rocketry software that many model rocket builders use to plan their rockets before buying parts. 
 
-<img src = "https://github.com/Pweder3/SMORT/blob/main/Documentation/Images/Images/A8%20Perfect%20Conditions%2045%20Degrees.png" width = 300> <img src = "https://github.com/Pweder3/SMORT/blob/main/Documentation/Images/Images/B6%20Perfect%20Conditions%2045%20Degrees%20Graph.png" width = 300>
-<img src = "https://github.com/Pweder3/SMORT/blob/main/Documentation/Images/Images/C6%20Perfect%20Conditions%2045%20Degrees.png" width = 300> <img src = "https://github.com/Pweder3/SMORT/blob/main/Documentation/Images/Images/Smort%20OpenRocket%20sim2.PNG" width = 300>
+<img src = "https://github.com/Pweder3/SMORT/blob/main/Documentation/Images/Images/A8%20Perfect%20Conditions%2045%20Degrees.png" width = 400> <img src = "https://github.com/Pweder3/SMORT/blob/main/Documentation/Images/Images/B6%20Perfect%20Conditions%2045%20Degrees%20Graph.png" width = 400>
+<img src = "https://github.com/Pweder3/SMORT/blob/main/Documentation/Images/Images/C6%20Perfect%20Conditions%2045%20Degrees.png" width = 400> <img src = "https://github.com/Pweder3/SMORT/blob/main/Documentation/Images/Images/Smort%20OpenRocket%20sim2.PNG" width = 400>
 
 Show above are 3 different simulations from open rocket. All of them are using the same rocket body but they each have a different motor size equipped. we can see how different size motors will affect any of the factors we have asked it to plot. We also used OpenRocket to compare different fin designs which you can easily edit. You can also change factors such as wind, barometric pressure, and launch angle. Learning to use this tool was crucial in making a good shell design.
 
