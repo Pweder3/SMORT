@@ -8,12 +8,14 @@
 * [Planning](#Planning) 
 * [Materials](#Materials)
 * [CAD](#CAD)
+* [OpenRocket](#OpenRocket)
 * [Photos of the Shell and Cannon](#Photos)
 * [Circuit Diagram](#Circuit_Diagram)
 * [Code](#Code)
 * [Failed launches and other issues](#Failures)
 * [Plotted Data and Analysis](#Plotted_Data+Analysis)
 * [Final Version](#Final_Version)
+* [Reflection](#Reflection)
 
 
 
