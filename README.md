@@ -29,15 +29,11 @@ Here is a more detailed planning document[LINK](https://github.com/Pweder3/SMORT
 - Fins
 - Tube
 - Tube mount
--
--
--
--
--
--
--
--
-
+- Wood For the Cart
+- Wheels and Axle
+- Air Tank and air cannon
+- Air Compressor
+- 
 
 # CAD
   Most of the CAD that we did was to create the shell that we would fire and the mount for the tube. Both of these items were 3d printed. All three group members worked on the CAD but most of it was done by Lucia and Cyrus
