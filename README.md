@@ -91,7 +91,7 @@ We had many failed launch attempts with our rocket-propelled shells and we have 
 
 # Final_Version
 <img src = "https://github.com/Pweder3/SMORT/blob/main/Documentation/Images/Images/launch6.gif" width = 800>
-
+Here you can see our successful launch with the deployable fin design. This prevented tumbling and caused rotational motion which helped the shell fly straight. 
 
 ## Reflection
 
