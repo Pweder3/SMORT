@@ -40,11 +40,13 @@ Here is a more detailed planning document[LINK](https://github.com/Pweder3/SMORT
 # CAD
   Most of the CAD we did was create the shell we would fire and the mount for the tube. Both of these items were 3d printed. All three group members worked on the CAD but most of it was done by Lucia and Cyrus
 
-- Tube Mount
+- Tube Mount:
+  
 The tube mount serves to secure the tube that holds the rocket. This mount can ensure tube security at angles 10°-45°. This stand had two parts that connected with screws and security nuts. This design was secured to a larger wood roller, which facilitated easy transportation. This design needed one variation after there was a slight crack in the main frame. This crack happened after we attempted to move the mount without loosening the screws that held it at that angle. In this first iteration, the stand did not have enough reinforced material on the main tube holder, so the whole tube came off after rough movement while using the stand. This piece was reinforced by rounding certain edges along the area of cracking. See [here](https://github.com/Pweder3/SMORT/blob/e99ab37a5900b654139543d49136c501d6953902/Documentation/Images/Images/brokensmortstand1.jpg) and [here](https://github.com/Pweder3/SMORT/blob/e99ab37a5900b654139543d49136c501d6953902/Documentation/Images/Images/brokensmortstand2.jpg) for the broken SMORT stand images.
 
-- Shell
-  The shell is modular and all of our versions involved 3-4 sections that could be removed and replaced if we broke them or decided on a different design. This was very useful when making the fins. We went through 5 different variations of the fin design and if we hadn't made the rocket modular we wouldn't have had to reprint a new rocket every time. Paul's thread design makes it super easy to remove the parts. The Nose and body parts remained the same the whole time. We could've made improvements to the nose but we found that the design was good enough for our purposes. The fins desperately needed a redesign. With the use of OpenRocket and internet research, we decided that deployable fins would be our best option.
+- Shell:
+  
+The shell is modular and all of our versions involved 3-4 sections that could be removed and replaced if we broke them or decided on a different design. This was very useful when making the fins. We went through 5 different variations of the fin design and if we hadn't made the rocket modular we wouldn't have had to reprint a new rocket every time. Paul's thread design makes it super easy to remove the parts. The Nose and body parts remained the same the whole time. We could've made improvements to the nose but we found that the design was good enough for our purposes. The fins desperately needed a redesign. With the use of OpenRocket and internet research, we decided that deployable fins would be our best option.
 
 
 
