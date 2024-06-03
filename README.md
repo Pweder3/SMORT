@@ -131,6 +131,8 @@ Here you can see our successful launch with the deployable fin design. This prev
 
 
 ### Lucia's Reflection
+#### Overall
+  I was happy with the final result of this project. Although there were a few gaps in the communication between party members, we banded together and allowed for a successful launch and collection of data to happen. The disconnection mostly came 
 
 
 
