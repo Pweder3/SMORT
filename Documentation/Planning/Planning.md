@@ -7,7 +7,7 @@ The goal of this project is to create a launch system for a rocket of our design
 ## Rocket Design
 The rocket is designed to be modular and easy to print as to enable us to iterate as fast as possible. Each part being modular will allow us to fix problems easily and for example change the rocket motor or even alter the mode of propulsuon all together.
 
-
+    
 
 ### Launch System
 The launch system has several possible designs. The main mode used right now is a rocket and all designs revolve around that system. The diffrent ideas of launch systems are as follows:
