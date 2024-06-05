@@ -93,7 +93,7 @@ We had many failed launch attempts with our rocket-propelled shells and we have 
 
 ## Rocket Propulsion
 
-Originally we had planned to use rocket motors as our method of propulsion but we had to switch to the air cannon to get the project done on time. More information about this can be found in [Cyrus's Reflection](###Cyrus's_Reflection).
+Originally we had planned to use rocket motors as our method of propulsion but we had to switch to the air cannon to get the project done on time. More information about this can be found in [Cyrus's_Reflection](###Cyrus's_Reflection).
 
 
 # Data
@@ -105,7 +105,7 @@ Here you can see our successful launch with the deployable fin design. This prev
 ## Reflection
 
 
-### Cyrus's_Reflection
+###Cyrus's_Reflection
 
 #### Overall Reflection
   While we ultimately succeeded in achieving a stable launch and collecting data, we failed to meet the other goals that we had ambitiously created at the start of the year. The project was initially supposed to use the data that we collected to make predictions of the angle we would need to launch a certain distance. I think that the shell would have been able to give us a consistent speed but I don't think that we could've figured out what that speed was just based on the sensor data. The code that the sensors use is unreliable and without filtering the data is unusable. For next year's project, I will try to be more moderate in my goals. I would much rather meet my goal and then enhance my project than degrade my project because my goals were too ambitious. 
