@@ -35,7 +35,7 @@ Here is a more detailed planning document[LINK](https://github.com/Pweder3/SMORT
 - Wheels and Axle
 - Air Tank and air cannon
 - Air Compressor
-- 
+  
 
 # CAD
   Most of the CAD we did was create the shell we would fire and the mount for the tube. Both of these items were 3d printed. All three group members worked on the CAD but most of it was done by Lucia and Cyrus
