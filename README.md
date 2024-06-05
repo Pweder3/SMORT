@@ -78,7 +78,7 @@ Show above are 3 different simulations from open rocket. All of them are using t
 <img src = "" width = 500>
 
 
-## Paul's Documentation
+# Paul's Documentation
 Paul Weder refused to use the readme to document even though every other team was using this. This act caused extreme frustration from his teammates and showed his combative and uncooperative character. It is important to note that he did do good documentation which was very well put together but it would've been much better had he just used the readme like an actual human being. The link to Paul's PDF can be found here________.
 
 
@@ -93,9 +93,7 @@ We had many failed launch attempts with our rocket-propelled shells and we have 
 
 ## Rocket Propulsion
 
-
-## Low Pass Filter
-
+Originally we had planned to use rocket motors as our method of propulsion but we had to switch to the air cannon to get the project done on time. More information about this can be found in [Cyrus's Reflection](###Cyrus's_Reflection).
 
 
 # Data
