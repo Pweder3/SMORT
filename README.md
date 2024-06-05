@@ -20,7 +20,8 @@
 
 
 # Planning 
-Here is a more detailed planning document[LINK](https://github.com/Pweder3/SMORT/tree/main/Documentation/Planning).
+Here is a more detailed planning document [LINK](https://github.com/Pweder3/SMORT/tree/main/Documentation/Planning).
+This is the Github project tab we used to assign work [LINK](https://github.com/users/Pweder3/projects/1/views/1).
 # Materials
 
 - Pico
