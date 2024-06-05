@@ -78,20 +78,9 @@ Show above are 3 different simulations from open rocket. All of them are using t
 <img src = "" width = 500>
 
 
-# Circuit_Diagram
+## Paul's Documentation
+Paul Weder refused to use the readme to document even though every other team was using this. This act caused extreme frustration from his teammates and showed his combative and uncooperative character. It is important to note that he did do good documentation which was very well put together but it would've been much better had he just used the readme like an actual human being. The link to Paul's PDF can be found here________.
 
-
-
-# Code
-
-## Replication of the calibration
-to calibrate you can follow [this](https://cdn-learn.adafruit.com/downloads/pdf/adafruit-sensorlab-magnetometer-calibration.pdf) tourtial from adafruit. Use a metro M4 (I used an airlift) not a pico because it doesn't seem to be able to run the code given in the tutorial. Another thing to note is that you need a certain amount of program mem that things like the Arduino UNO don't have. To install the dependencies for Python run the following commands in the terminal
-
-- `pip3 install matplotlib`
-- `pip3 install pyserial` (Although the import message says import serial it is part of the pyserial package, not the serial package)
-- `pip3 install numpy`
-
-Note that some may have to **use Python 3.11 or lower** because of import changes in 3.12. To find the serial port that the metro is connected to use the Arduino IDE and go to tools and then port and it should be the one listed under your board. Also, note that this info is all our team's issues with the tutorial and the problems that we had.
 
 # Failures
 We had many failed launch attempts with our rocket-propelled shells and we have more documentation of those attempts here [More Launch Info](https://github.com/Pweder3/SMORT/blob/main/Documentation/Launch%20Documentation.md)
