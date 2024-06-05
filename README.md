@@ -62,8 +62,12 @@ This is a picture of our fins in the deployed position
 
 ### OpenRocket is a free rocketry software that many model rocket builders use to plan their rockets before buying parts. 
 
+<<<<<<< HEAD
+_photos that we took during the building process
+=======
 <img src = "https://github.com/Pweder3/SMORT/blob/main/Documentation/Images/Images/A8%20Perfect%20Conditions%2045%20Degrees.png" width = 400> <img src = "https://github.com/Pweder3/SMORT/blob/main/Documentation/Images/Images/B6%20Perfect%20Conditions%2045%20Degrees%20Graph.png" width = 400>
 <img src = "https://github.com/Pweder3/SMORT/blob/main/Documentation/Images/Images/C6%20Perfect%20Conditions%2045%20Degrees.png" width = 400> <img src = "https://github.com/Pweder3/SMORT/blob/main/Documentation/Images/Images/Smort%20OpenRocket%20sim2.PNG" width = 400>
+>>>>>>> cd7766ad492cda8fc9811bdba43ab6014cae2c19
 
 Show above are 3 different simulations from open rocket. All of them are using the same rocket body but they each have a different motor size equipped. we can see how different size motors will affect any of the factors we have asked it to plot. We also used OpenRocket to compare different fin designs which you can easily edit. You can also change factors such as wind, barometric pressure, and launch angle. Learning to use this tool was crucial in making a good shell design.
 
@@ -71,11 +75,14 @@ Show above are 3 different simulations from open rocket. All of them are using t
 <img src = "https://github.com/Pweder3/SMORT/blob/main/Documentation/Images/Images/Smort%20Shell%20IRL.jpg" width = 500>
 <img src = "https://github.com/Pweder3/SMORT/blob/main/Documentation/Images/Images/Group%20Picture.jpg" width = 500>
 
+<<<<<<< HEAD
+=======
 
 # Pauls_Documentation
 Paul Weder refused to use the readme to document even though every other team was using this. This act caused extreme frustration from his teammates and showed his combative and uncooperative character. It is important to note that he did do good documentation which was very well put together but it would've been much better had he just used the readme like an actual human being. The link to Paul's PDF can be found here [Paul's Docs](https://github.com/Pweder3/SMORT/blob/main/Code%20Documentation.pdf).
 
 
+>>>>>>> cd7766ad492cda8fc9811bdba43ab6014cae2c19
 # Failures
 We had many failed launch attempts with our rocket-propelled shells and we have more documentation of those attempts here [More Launch Info](https://github.com/Pweder3/SMORT/blob/main/Documentation/Launch%20Documentation.md)
 
@@ -115,4 +122,4 @@ Here you can see our successful launch with the deployable fin design. This prev
 
 
 ### Paul's Reflection
-This project was a huge leap for me in the sense that for me it was a test of all of my abilities and then some as I had to learn countless new subjects through the project to accomplish my goals. This project not only tested my abstract knowledge of subjects but made me implement them which i think is the true value of the project and the true goal of this class to make us learn which I think I accomplished. This project although was not all sun and roses as 
+This project was a huge leap for me in the sense, it was a test of all of my abilities and then some as I had to learn countless new subjects through the project to accomplish my goals. This project not only tested my abstract knowledge of subjects but made me implement them which I think is the true value of the project and the true goal of this class to make us learn which I think I accomplished. This project although was not all sunshine and rainbows, as I might have wished. The biggest issue was time management, and although I pushed very heavily to [scedualize](https://github.com/users/Pweder3/projects/1) the project and keep us on time the thing that kept me back was me working on the wrong thing. I approached this project with a lot of excitement and wanted to dive right in looking into the abstract and to me cool stuff such as the low pass filter or other more complicated concepts that really should have been done later. The age-old problem of scope creep was the main culprit in failure as I should have started the project with the basics and as always given myself a buffer as in these kinds of projects things are almost never on time or as easy as they seem. My main takeaway for this project is to peruse what you want to do and what makes you exited, but do it in a manner that incentives the success of the project as a whole. In simple terms. 
