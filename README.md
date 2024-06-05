@@ -95,8 +95,6 @@ We had many failed launch attempts with our rocket-propelled shells and we have 
 
 Originally we had planned to use rocket motors as our method of propulsion but we had to switch to the air cannon to finish the project on time. More information about this can be found in Cyrus's Reflection.
 
-# Data
-
 # Final_Version
 <img src = "https://github.com/Pweder3/SMORT/blob/main/Documentation/Images/Images/launch6.gif" width = 800>
 Here you can see our successful launch with the deployable fin design. This prevented tumbling and caused rotational motion which helped the shell fly straight. 
