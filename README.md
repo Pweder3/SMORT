@@ -99,7 +99,7 @@ Originally we had planned to use rocket motors as our method of propulsion but w
 <img src = "https://github.com/Pweder3/SMORT/blob/main/Documentation/Images/Images/launch6.gif" width = 800>
 Here you can see our successful launch with the deployable fin design. This prevented tumbling and caused rotational motion which helped the shell fly straight. 
 
-## Reflection
+# Reflection
 
 
 ### Cyrus's Reflection
