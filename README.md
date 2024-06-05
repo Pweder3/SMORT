@@ -69,12 +69,6 @@ Show above are 3 different simulations from open rocket. All of them are using t
 
 # Photos
 <img src = "https://github.com/Pweder3/SMORT/blob/main/Documentation/Images/Images/Smort%20Shell%20IRL.jpg" width = 500>
-<img src = "" width = 500>
-<img src = "" width = 500>
-<img src = "" width = 500>
-<img src = "" width = 500>
-<img src = "" width = 500>
-<img src = "" width = 500>
 <img src = "https://github.com/Pweder3/SMORT/blob/main/Documentation/Images/Images/Group%20Picture.jpg" width = 500>
 
 
