@@ -76,7 +76,7 @@ Show above are 3 different simulations from open rocket. All of them are using t
 <img src = "" width = 500>
 <img src = "" width = 500>
 <img src = "" width = 500>
-<img src = "" width = 500>
+<img src = "https://github.com/Pweder3/SMORT/blob/main/Documentation/Images/Images/Group%20Picture.jpg" width = 500>
 
 
 # Paul's Documentation
