@@ -117,7 +117,7 @@ Here you can see our successful launch with the deployable fin design. This prev
 
 ### Lucia's Reflection
 #### Overall
-  I was happy with the final result of this project. Although there were a few gaps in the communication between party members, we banded together and allowed for a successful launch and collection of data to happen. The disconnection mostly came 
+  I was happy with the final result of this project. Although there were a few gaps in the communication between party members, we banded together and allowed for a successful launch and collection of data to happen. I learned about the functionality of rocket fins and the importance they serve in a projectile. The launches were very satisfying after we moved to the air cannon, considering the visible feat of the height and the satisfying result of both the deployable fins and the landing of the spring. It seemed like the delegation of work could have been handled beetter. At certain times in this project, I was not totally upfront about goals and expectations regarding my share of the workload. It was harder considering I came in later after people had already decided on an initial project. 
 
 
 
