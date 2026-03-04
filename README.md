@@ -79,7 +79,7 @@ Show above are 3 different simulations from open rocket. All of them are using t
 =======
 
 # Pauls_Documentation
-Paul Weder refused to use the readme to document even though every other team was using this. This act caused extreme frustration from his teammates and showed his combative and uncooperative character. It is important to note that he did do good documentation which was very well put together but it would've been much better had he just used the readme like an actual human being. The link to Paul's PDF can be found here [Paul's Docs](https://github.com/Pweder3/SMORT/blob/main/Code%20Documentation.pdf).
+[Paul's Docs](https://github.com/Pweder3/SMORT/blob/main/Code%20Documentation.pdf).
 
 
 >>>>>>> cd7766ad492cda8fc9811bdba43ab6014cae2c19
