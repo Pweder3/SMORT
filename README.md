@@ -62,8 +62,7 @@ This is a picture of our fins in the deployed position
 
 ### OpenRocket is a free rocketry software that many model rocket builders use to plan their rockets before buying parts. 
 
-<<<<<<< HEAD
-_photos that we took during the building process
+photos that we took during the building process
 =======
 <img src = "https://github.com/Pweder3/SMORT/blob/main/Documentation/Images/Images/A8%20Perfect%20Conditions%2045%20Degrees.png" width = 400> <img src = "https://github.com/Pweder3/SMORT/blob/main/Documentation/Images/Images/B6%20Perfect%20Conditions%2045%20Degrees%20Graph.png" width = 400>
 <img src = "https://github.com/Pweder3/SMORT/blob/main/Documentation/Images/Images/C6%20Perfect%20Conditions%2045%20Degrees.png" width = 400> <img src = "https://github.com/Pweder3/SMORT/blob/main/Documentation/Images/Images/Smort%20OpenRocket%20sim2.PNG" width = 400>
@@ -75,14 +74,12 @@ Show above are 3 different simulations from open rocket. All of them are using t
 <img src = "https://github.com/Pweder3/SMORT/blob/main/Documentation/Images/Images/Smort%20Shell%20IRL.jpg" width = 500>
 <img src = "https://github.com/Pweder3/SMORT/blob/main/Documentation/Images/Images/Group%20Picture.jpg" width = 500>
 
-<<<<<<< HEAD
-=======
-
-# Pauls_Documentation
-[Paul's Docs](https://github.com/Pweder3/SMORT/blob/main/Code%20Documentation.pdf).
 
 
->>>>>>> cd7766ad492cda8fc9811bdba43ab6014cae2c19
+# [Code Documentation](https://github.com/Pweder3/SMORT/blob/main/Code%20Documentation.pdf).
+
+
+
 # Failures
 We had many failed launch attempts with our rocket-propelled shells and we have more documentation of those attempts here [More Launch Info](https://github.com/Pweder3/SMORT/blob/main/Documentation/Launch%20Documentation.md)
 
